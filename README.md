@@ -536,3 +536,53 @@ churn como la ausencia de compras durante los 120 días posteriores a
 una fecha de corte, evaluando el modelo mediante separación temporal,
 PR-AUC, lift y precision en el grupo priorizado.
 
+## Limitaciones y alcance de la entrega
+
+### Pedidos OMS
+
+El modelo canónico entregado se concentra en facturación reconocida por
+los tres ERP. Los pedidos OMS no se integraron en la versión final del
+pipeline.
+
+Se decidió no mezclar pedidos abiertos con ventas facturadas para evitar
+inflar las cifras de control. Como evolución, el OMS debe incorporarse
+como una tabla de hechos independiente, homologada con las mismas
+dimensiones de clientes y productos.
+
+### Riesgo de abandono
+
+La información disponible no incluía una etiqueta histórica explícita
+de abandono. Por ello, se construyó un Customer Health Index explicable,
+basado en recencia, frecuencia, tendencia de ventas, margen y amplitud
+del portafolio.
+
+El índice no representa una probabilidad calibrada de churn. En una
+implementación productiva se recomienda construir snapshots históricos,
+definir abandono mediante una ventana futura sin compras y realizar una
+evaluación temporal mediante PR-AUC, lift y precision en el grupo
+priorizado.
+
+### Horizonte de rentabilidad
+
+El forecast estadístico obligatorio cubre julio–diciembre de 2026. Para
+responder a la pregunta de rentabilidad de julio de 2026 a junio de 2027,
+se construyó un escenario de planeación en el que H1-2027 mantiene el
+run-rate proyectado de H2-2026.
+
+Esta extensión permite cuantificar las decisiones en un horizonte de
+12 meses, pero no debe interpretarse como un forecast estadístico
+independiente para H1-2027.
+
+### Potencial de las palancas
+
+El impacto estimado de €1,24 M representa un potencial bruto. Las
+palancas de recuperación de cuentas y pricing selectivo podrían
+aplicarse sobre parte de la misma población, por lo que el solapamiento
+debe validarse antes de fijar compromisos financieros.
+
+### Validación del forecast
+
+La historia disponible comprende aproximadamente 30 meses. El
+backtesting utiliza dos ventanas temporales de seis meses, por lo que
+los resultados deben considerarse una validación inicial y actualizarse
+conforme se incorpore nueva información.
