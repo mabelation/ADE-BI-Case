@@ -1,0 +1,6 @@
+﻿lever,affected_base_eur,assumption,incremental_margin_eur,implementation_risk,margin_uplift_pp,baseline_sales_eur,baseline_margin_eur,baseline_margin_pct
+Selective pricing,18399461.986105833,Increase price 1.5% for positive-margin customers below 10% margin; retain 98% of volume,270472.0911957557,MEDIUM,0.4771620350103284,56683489.32871434,6178340.445077389,0.10899717921824559
+Recover low/negative-margin accounts,38973275.5437745,"Recover 50% of quantified six-month opportunity through price floors, discount control and order conditions",318733.55644364667,MEDIUM,0.5623040504709803,56683489.32871434,6178340.445077389,0.10899717921824559
+Reduce credit notes,57424.83010399634,Reduce 25% of projected 2026-S2 credit-note impact through root-cause actions,14356.207525999085,LOW,0.025326965040464815,56683489.32871434,6178340.445077389,0.10899717921824559
+Improve product mix,935147.1954849405,Shift 5% of forecast sales from bottom-quartile families to top-quartile margin families,14152.52030537813,MEDIUM,0.024967623681926093,56683489.32871434,6178340.445077389,0.10899717921824559
+TOTAL,,Combined scenario; target is 2.0 pp,617714.3754707796,PORTFOLIO,1.0897606742036996,56683489.32871434,6178340.445077389,0.10899717921824559

@@ -1,0 +1,21 @@
+﻿control,value
+total_rows,225044
+unique_sale_keys,225044
+duplicated_sale_keys,0
+minimum_invoice_date,2024-01-01 00:00:00
+maximum_invoice_date,2026-06-30 00:00:00
+unique_customers_global,903
+unique_products_global,38
+intercompany_rows,110
+intercompany_customers,2
+final_customer_quantity_tons,291271.3044
+final_customer_net_sales_eur,280671908.43806934
+final_customer_gross_margin_eur,30729932.028763387
+final_customer_gross_margin_pct,0.10948702419053807
+intercompany_quantity_tons,21140.563400000006
+intercompany_net_sales_eur,13953918.28
+fx_imputed_rows,4020
+null_net_sales_eur,0
+null_standard_cost,0
+null_customer_global_id,0
+null_product_global_id,0

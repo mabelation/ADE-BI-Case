@@ -1,0 +1,23 @@
+﻿control,value
+raw_detail_rows,48449
+clean_rows,48439
+unique_record_keys,48439
+duplicate_occurrences_removed,10
+duplicate_record_key_groups,10
+null_invoice_dates,0
+null_invoice_lines,0
+null_quantity_units,0
+null_net_amount_eur,0
+unmapped_products,0
+missing_kg_per_unit,0
+unique_customers,220
+unique_products_erp,36
+unique_products_global,36
+minimum_invoice_date,2024-01-01 00:00:00
+maximum_invoice_date,2026-06-30 00:00:00
+files_processed,30
+rows_with_reported_net_amount,37920
+rows_with_reconstructed_net_amount,10519
+gross_quantity_units,2171673
+net_quantity_tons,62758.846699999995
+net_sales_eur,60923740.63280992

@@ -1,0 +1,843 @@
+
+====================================================================================================
+ARCHIVO: datos\erp-eurolam-polonia\faktury_2024.csv
+====================================================================================================
+0   StalexERP v7.3 - Eksport faktur                    NaN           NaN          NaN                          NaN   NaN       NaN                                                 NaN        NaN           NaN            NaN     NaN      NaN            NaN
+1   Data eksportu: 05.07.2026 08:12  Uzytkownik: JKOWALSKI           NaN          NaN                          NaN   NaN       NaN                                                 NaN        NaN           NaN            NaN     NaN      NaN            NaN
+2                        NR_FAKTURY                POZYCJA  DATA_FAKTURY  KOD_KLIENTA                NAZWA_KLIENTA  KRAJ    INDEKS                                        NAZWA_TOWARU  ILOSC_TON  CENA_NETTO_T  WARTOSC_NETTO  WALUTA   RODZAJ  NR_ZAMOWIENIA
+3                        FV/3638/24                      4    01.05.2024       K-2224             Agro Morava a.s.    CZ  ADE-1023             Alambre de puas 2.4mm rollo 250m [1023]       2,66       4164,06        11076,4     PLN  FAKTURA     OMS-110229
+4                        FV/3211/24                      1    13.05.2024       K-2090         Agro-Małopolska S.A.    PL  ADE-1007  Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]      0,644       3382,32        2178,21     PLN  FAKTURA     OMS-109797
+5                        FV/4803/24                      2    12.07.2024       K-2000        Bud-Met Wrocław Sp.j.    PL  ADE-1033               Clavos galvanizados 2.7mm caja [1033]      0,374       5594,85        2092,47     PLN  FAKTURA     OMS-114675
+6                        FV/9357/24                      1    20.12.2024       K-2015        Agro-Małopolska Sp.k.    PL  ADE-1029           Cerca ganadera 200 nudos rollo 50m [1029]      0,492       4704,15        2314,44     PLN  FAKTURA     OMS-127226
+7                        FV/8862/24                      1    15.11.2024       K-2133  Zbro-Stal Kraków Sp. z o.o.    PL  ADE-1022             Alambre de puas 2.0mm rollo 250m [1022]      0,396       3680,61        1457,52     PLN  FAKTURA     OMS-125337
+8                         FV/218/24                      2    05.01.2024       K-2155          Siatki Poznań Sp.k.    PL  ADE-1018             Alambre galvanizado 3.4mm bobina [1018]       0,56       3447,11        1930,38     PLN  FAKTURA     OMS-100722
+9                        FV/2898/24                      2    23.04.2024       K-2291             Agrár Szeged Bt.    HU  ADE-1031               Clavos galvanizados 2.0mm caja [1031]      0,675       5207,22        3514,88     PLN  FAKTURA     OMS-107762
+10                       FV/1244/24                      1    29.03.2024       K-2068       Metalurgia Śląsk Sp.j.    PL  ADE-1000  Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]      4,312       2707,68       11675,53     PLN  FAKTURA     OMS-104282
+11                       FV/8880/24                      1    13.11.2024       K-2143         Bud-Met Wrocław S.A.    PL  ADE-1000  Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]      0,392       2756,39        1080,51     PLN  FAKTURA     OMS-125356
+12                       FV/2524/24                      3    30.04.2024       K-2165   Ogro-Metal Żory Sp. z o.o.    PL  ADE-1007  Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]      4,094       3820,65       15641,75     PLN  FAKTURA     OMS-107386
+13                       FV/1584/24                      3    08.03.2024       K-2170             Agro Morava a.s.    CZ  ADE-1012              Malla hexagonal 200mm rollo 25m [1012]       1,35       4764,54        6432,13     PLN  FAKTURA     OMS-104626
+14                       FV/2441/24                      2    23.04.2024       K-2154          Stal-Bud Łódź Sp.k.    PL  ADE-1033               Clavos galvanizados 2.7mm caja [1033]      0,391       1190,97         465,67     EUR  FAKTURA     OMS-107301
+
+====================================================================================================
+ARCHIVO: datos\erp-eurolam-polonia\faktury_2025.csv
+====================================================================================================
+0   StalexERP v7.3 - Eksport faktur                    NaN           NaN          NaN                          NaN   NaN       NaN                                                   NaN        NaN           NaN            NaN     NaN      NaN            NaN
+1   Data eksportu: 05.07.2026 08:12  Uzytkownik: JKOWALSKI           NaN          NaN                          NaN   NaN       NaN                                                   NaN        NaN           NaN            NaN     NaN      NaN            NaN
+2                        NR_FAKTURY                POZYCJA  DATA_FAKTURY  KOD_KLIENTA                NAZWA_KLIENTA  KRAJ    INDEKS                                          NAZWA_TOWARU  ILOSC_TON  CENA_NETTO_T  WARTOSC_NETTO  WALUTA   RODZAJ  NR_ZAMOWIENIA
+3                       FV/19408/25                      2    21.10.2025       K-2064           Stal-Bud Łódź S.A.    PL  ADE-1023               Alambre de puas 2.4mm rollo 250m [1023]      0,304       3709,33        1127,64     PLN  FAKTURA     OMS-154629
+4                       FV/11375/25                      3    12.02.2025       K-2140  Hurtownia Stali Gdańsk S.A.    PL  ADE-1022               Alambre de puas 2.0mm rollo 250m [1022]      0,108       4098,49         442,64     PLN  FAKTURA     OMS-132301
+5                       FV/20590/25                      1    07.11.2025       K-2105        Zbro-Stal Kraków S.A.    PL  ADE-1034                 Clavos galvanizados 3.0mm caja [1034]      0,735       6638,44        4879,25     PLN  FAKTURA     OMS-157506
+6                       FV/12646/25                      4    24.03.2025       K-2206      Stavebniny Plzeň s.r.o.    CZ  ADE-1031                 Clavos galvanizados 2.0mm caja [1031]      1,008       5622,65        5667,64     PLN  FAKTURA     OMS-135329
+7                       FV/18445/25                      1    11.09.2025       K-2088        Ogro-Metal Żory Sp.j.    PL  ADE-1011                Malla hexagonal 150mm rollo 25m [1011]      1,991       1207,18        2403,73     EUR  FAKTURA     OMS-151820
+8                       FV/21930/25                      1    29.12.2025       K-2278        Kerítés Debrecen Zrt.    HU  ADE-1007    Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]      0,736       3796,24        2794,03     PLN  FAKTURA     OMS-160344
+9                       FV/18883/25                      1    15.09.2025       K-2202             Ploty Praha a.s.    CZ  ADE-1031                 Clavos galvanizados 2.0mm caja [1031]      1,539       1234,66        1900,14     EUR  FAKTURA     OMS-152264
+10                      FV/14375/25                      1    30.05.2025       K-2087       Metalurgia Śląsk Sp.j.    PL  ADE-1002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]      0,496       2978,45         1478,8     PLN  FAKTURA     OMS-140882
+11                      FV/13837/25                      2    09.04.2025       K-2228      Stavmat Bratislava a.s.    SK  ADE-1022               Alambre de puas 2.0mm rollo 250m [1022]       2,88       3459,59        9963,63     PLN  FAKTURA     OMS-138426
+12                      FV/14000/25                      2    25.04.2025       K-2279            Huzal Miškolc Bt.    HU  ADE-1009                 Malla hexagonal 75mm rollo 25m [1009]      4,249        1028,7        4370,73     EUR  FAKTURA     OMS-138590
+13                      FV/21639/25                      2    22.12.2025       K-2154          Stal-Bud Łódź Sp.k.    PL  ADE-1013               Alambre galvanizado 1.6mm bobina [1013]       1,86        734,27        1365,74     EUR  FAKTURA     OMS-160051
+14                      FV/10493/25                      4    30.01.2025       K-2149     Ogrodzenia Żelazne Sp.j.    PL  ADE-1018               Alambre galvanizado 3.4mm bobina [1018]       0,56         898,4          503,1     EUR  FAKTURA     OMS-129849
+
+====================================================================================================
+ARCHIVO: datos\erp-eurolam-polonia\faktury_2026_S1.csv
+====================================================================================================
+0   StalexERP v7.3 - Eksport faktur                    NaN           NaN          NaN                       NaN   NaN       NaN                                                   NaN        NaN           NaN            NaN     NaN      NaN            NaN
+1   Data eksportu: 05.07.2026 08:12  Uzytkownik: JKOWALSKI           NaN          NaN                       NaN   NaN       NaN                                                   NaN        NaN           NaN            NaN     NaN      NaN            NaN
+2                        NR_FAKTURY                POZYCJA  DATA_FAKTURY  KOD_KLIENTA             NAZWA_KLIENTA  KRAJ    INDEKS                                          NAZWA_TOWARU  ILOSC_TON  CENA_NETTO_T  WARTOSC_NETTO  WALUTA   RODZAJ  NR_ZAMOWIENIA
+3                       FV/23940/26                      1    24.03.2026       K-2033            Drót-Pol Sp.k.    PL  ADE-1000    Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]      0,392       2796,85        1096,37     PLN  FAKTURA     OMS-167194
+4                       FV/26334/26                      1    28.05.2026       K-2075            Drót-Pol Sp.k.    PL  ADE-1003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]      1,178       3208,91        3780,42     PLN  FAKTURA     OMS-173475
+5                       FV/22583/26                      2    14.01.2026       K-2177   Stavebniny Plzeň s.r.o.    CZ  ADE-1015               Alambre galvanizado 2.4mm bobina [1015]       0,26        893,23         232,24     EUR  FAKTURA     OMS-162477
+6                       FV/23862/26                      1    05.03.2026       K-2018    Zbro-Stal Kraków Sp.j.    PL  ADE-1008                 Malla hexagonal 50mm rollo 25m [1008]      1,215        904,98        1099,55     EUR  FAKTURA     OMS-167116
+7                       FV/23831/26                      1    04.03.2026       K-2013      Agro-Małopolska S.A.    PL  ADE-1011                Malla hexagonal 150mm rollo 25m [1011]      0,419       5707,29         2392,5     PLN  FAKTURA     OMS-167085
+8                       FV/22548/26                      2    02.01.2026       K-2170          Agro Morava a.s.    CZ  ADE-1033                 Clavos galvanizados 2.7mm caja [1033]      1,615       6162,12        9951,83     PLN  FAKTURA     OMS-162442
+9                       FV/27435/26                      2    05.06.2026       K-2075            Drót-Pol Sp.k.    PL  ADE-1012                Malla hexagonal 200mm rollo 25m [1012]       0,63       4952,24        3119,91     PLN  FAKTURA     OMS-176456
+10                      FV/26164/26                      1    27.05.2026       K-2033            Drót-Pol Sp.k.    PL  ADE-1021               Alambre de puas 1.6mm rollo 250m [1021]      1,394       3285,99        4580,66     PLN  FAKTURA     OMS-173304
+11                      FV/22286/26                      3    28.01.2026       K-2089     Bud-Met Wrocław Sp.k.    PL  ADE-1023               Alambre de puas 2.4mm rollo 250m [1023]      1,026        941,87         966,36     EUR  FAKTURA     OMS-162180
+12                      FV/26489/26                      5    07.05.2026       K-2115       Drót-Pol Sp. z o.o.    PL  ADE-1032                 Clavos galvanizados 2.4mm caja [1032]      4,303       5698,93       24522,51     PLN  FAKTURA     OMS-173635
+13                      FV/22776/26                      2    16.01.2026       K-2258         Agro Tatry s.r.o.    SK  ADE-1008                 Malla hexagonal 50mm rollo 25m [1008]       0,24        935,97         224,63     EUR  FAKTURA     OMS-162672
+14                      FV/25104/26                      2    13.04.2026       K-2051  Siatki Poznań Sp. z o.o.    PL  ADE-1012                Malla hexagonal 200mm rollo 25m [1012]       0,99       5053,98        5003,44     PLN  FAKTURA     OMS-170336
+
+====================================================================================================
+ARCHIVO: datos\erp-eurolam-polonia\klienci.csv
+====================================================================================================
+0      KOD                              NAZWA  KRAJ          NIP      SEGMENT
+1   K-2000              Bud-Met Wrocław Sp.j.    PL  PL757022780  BUDOWNICTWO
+2   K-2001           Stal-Bud Łódź Sp. z o.o.    PL  PL814779298  BUDOWNICTWO
+3   K-2002             Metalurgia Śląsk Sp.k.    PL  PL735506803    ROLNICTWO
+4   K-2003              Bud-Met Wrocław Sp.k.    PL  PL279408607    ROLNICTWO
+5   K-2004                Stal-Bud Łódź Sp.j.    PL  PL837052794    ROLNICTWO
+6   K-2005       Hurtownia Stali Gdańsk Sp.k.    PL  PL273459833     PRZEMYSL
+7   K-2006                Drót-Pol Sp. z o.o.    PL  PL220895691    ROLNICTWO
+8   K-2007  Hurtownia Stali Gdańsk Sp. z o.o.    PL  PL690807227        DETAL
+9   K-2008      Ogrodzenia Żelazne Sp. z o.o.    PL  PL579874603     PRZEMYSL
+10  K-2009         Ogro-Metal Żory Sp. z o.o.    PL  PL476652775     PRZEMYSL
+11  K-2010             Metalurgia Śląsk Sp.j.    PL  PL110742233        DETAL
+12  K-2011               Bud-Met Wrocław S.A.    PL  PL541903781    ROLNICTWO
+13  K-2012            Ogrodzenia Żelazne S.A.    PL  PL420353076    ROLNICTWO
+14  K-2013               Agro-Małopolska S.A.    PL  PL731621186     PRZEMYSL
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\clientes-turio.xlsx
+====================================================================================================
+
+HOJA: Sheet1
+0   Código                         Nombre  País          NIF      Segmento
+1    C0400         Comercial Norte S.L.U.    ES  ES429264475  Distribuidor
+2    C0401            Aceros Levante S.L.    ES  ES105942208  Constructora
+3    C0402          Mallas del Sur S.L.U.    ES  ES772403370    Industrial
+4    C0403   Cercados Iberia e Hijos S.L.    ES  ES218030087  Constructora
+5    C0404  Suministros Ebro e Hijos S.L.    ES  ES701096043      Agricola
+6    C0405       Vallas Mediterraneo S.L.    ES  ES683354044      Agricola
+7    C0406       Vallas Mediterraneo S.A.    ES  ES126435554      Agricola
+8    C0407         Cercados Iberia S.L.U.    ES  ES596357530    Industrial
+9    C0408    Aceros Levante e Hijos S.L.    ES  ES518045642    Industrial
+10   C0409          Aceros Levante S.L.U.    ES  ES242883661        Retail
+11   C0410   Comercial Norte e Hijos S.L.    ES  ES738445497      Agricola
+12   C0411       Ferreteria Garcia S.L.U.    ES  ES831762513      Agricola
+13   C0412        Suministros Ebro S.L.U.    ES  ES379859530  Constructora
+14   C0413          Suministros Ebro S.L.    ES  ES573146646  Distribuidor
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-DICIEMBRE-24.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - DICIEMBRE 2024    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                       NaN    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                                Nº Factura  Línea                Fecha  Cód. Cliente                        Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                                 V24-05926      1           13/12/2024         C0442   Comercial Norte e Hijos S.L.        GM-3010                Malla hexagonal 100mm rollo 25m [1010]              48           1170.65            1416.49  OMS-128065
+4                                                 V24-05942      3  2024-12-10 00:00:00         C0448            Aceros Levante S.A.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             444           2423.86            2932.87  OMS-128082
+5                                                 V24-06146      3           12/12/2024         C0539    Agropecuaria Extremena S.A.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             269           1420.45            1718.74  OMS-128287
+6                                                 V24-06267      2           10/12/2024         C0599       Recinzioni Veneto S.n.c.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               7           2955.43            3576.07  OMS-128409
+7                                                 V24-05972      1           03/12/2024         C0464       Vallas Mediterraneo S.A.        GM-3033                 Clavos galvanizados 2.7mm caja [1033]              89           1957.94            2369.11  OMS-128112
+8                                                 V24-06174      2  2024-12-11 00:00:00         C0548  Acos do Porto Unipessoal Lda.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1            399.13             482.95  OMS-128316
+9                                                 V24-05936      1  2024-12-17 00:00:00         C0446  Agropecuaria Extremena S.L.U.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]               2             98.97             119.75  OMS-128076
+10                                                V24-05823      2  2024-12-12 00:00:00         C0405       Vallas Mediterraneo S.L.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]              53           1256.95            1520.91  OMS-127962
+11                                                V24-06002      1           10/12/2024         C0478         Cercados Iberia S.L.U.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              82           1968.49            2381.87  OMS-128142
+12                                                V24-05866      3           12/12/2024         C0420     Vallas Mediterraneo S.L.U.        GM-3000    Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]              94           1529.09             1850.2  OMS-128005
+13                                                V24-05843      3           20/12/2024         C0416            Mallas del Sur S.A.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              20            512.46             620.08  OMS-127982
+14                                                V24-06299      1           16/12/2024         C0617      Ferramenta Toscana S.p.A.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]              52           1003.45            1214.17  OMS-128441
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-DICIEMBRE-25.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - DICIEMBRE 2025    NaN                  NaN           NaN                      NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                       NaN    NaN                  NaN           NaN                      NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                                Nº Factura  Línea                Fecha  Cód. Cliente                  Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                                 V25-12970      1           01/12/2025         C0514    Hierros Castilla S.L.        GM-3008                 Malla hexagonal 50mm rollo 25m [1008]              24            382.38             462.68  OMS-160667
+4                                                 V25-12720      1  2025-12-22 00:00:00         C0402    Mallas del Sur S.L.U.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              19            582.92             705.33  OMS-160413
+5                                                 V25-12927      2           24/12/2025         C0497      Mallas del Sur S.A.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]              33           1079.23            1305.87  OMS-160624
+6                                                 V25-13172      2  2025-12-09 00:00:00         C0613  Agritec Piemonte S.n.c.        GM-3032                 Clavos galvanizados 2.4mm caja [1032]              42            647.15             783.05  OMS-160872
+7                                                 V25-12957      2           02/12/2025         C0511   Ferreteria Garcia S.L.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]               9            271.76             328.83  OMS-160654
+8                                                 V25-13111      1           09/12/2025         C0570       Agropec Minho S.A.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]               5            149.32             180.68  OMS-160810
+9                                                 V25-13111      2           09/12/2025         C0570       Agropec Minho S.A.        GM-3005    Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              74           2444.65            2958.03  OMS-160810
+10                                                V25-12829      5           03/12/2025         C0451      Mallas del Sur S.L.        GM-3013               Alambre galvanizado 1.6mm bobina [1013]              27           1099.54            1330.44  OMS-160522
+11                                                V25-13176      5           24/12/2025         C0615  Agritec Piemonte S.r.l.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]               6            586.91             710.16  OMS-160876
+12                                                V25-13131      1  2025-12-25 00:00:00         C0584       Reti Emilia S.p.A.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]               6            351.93             425.84  OMS-160831
+13                                                V25-13172      3  2025-12-09 00:00:00         C0613  Agritec Piemonte S.n.c.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]               9            264.64             320.21  OMS-160872
+14                                                V25-13033      2  2025-12-22 00:00:00         C0540      Redes Alentejo S.A.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1            427.54             517.32  OMS-160732
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-JUNIO-24.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - JUNIO 2024    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                        Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V24-02617      2           05/06/2024         C0443          Hierros Castilla S.L.        GM-3023               Alambre de puas 2.4mm rollo 250m [1023]              14            520.07             629.28  OMS-113219
+4                                             V24-03026      4           07/06/2024         C0600        Agritec Piemonte S.n.c.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]               6            177.57             214.86  OMS-113631
+5                                             V24-02886      1  2024-06-19 00:00:00         C0538            Mallas del Sur S.A.        GM-3013               Alambre galvanizado 1.6mm bobina [1013]              18            750.82             908.49  OMS-113489
+6                                             V24-02532      3           11/06/2024         C0412        Suministros Ebro S.L.U.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              43           1303.31            1577.01  OMS-113133
+7                                             V24-02630      1           12/06/2024         C0447           Comercial Norte S.L.        GM-3010                Malla hexagonal 100mm rollo 25m [1010]              60           1511.19            1828.54  OMS-113232
+8                                             V24-02535      2  2024-06-17 00:00:00         C0415          Hierros Castilla S.A.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]              22           1214.93            1470.07  OMS-113136
+9                                             V24-02576      1           26/06/2024         C0426           Cercados Iberia S.A.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              15            466.05             563.92  OMS-113178
+10                                            V24-02629      2  2024-06-26 00:00:00         C0446  Agropecuaria Extremena S.L.U.        GM-3006    Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]              52           1701.39            2058.68  OMS-113231
+11                                            V24-02881      2  2024-06-06 00:00:00         C0537            Aceros Levante S.L.        GM-3010                Malla hexagonal 100mm rollo 25m [1010]              56           1361.08            1646.91  OMS-113484
+12                                            V24-02670      4           13/06/2024         C0466   Cercados Iberia e Hijos S.L.        GM-3027             Cerca ganadera 100 nudos rollo 50m [1027]               3             195.5             236.56  OMS-113273
+13                                            V24-02732      3           17/06/2024         C0488         Comercial Norte S.L.U.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               2           1286.22            1556.33  OMS-113335
+14                                            V24-02750      3           06/06/2024         C0494           Cercados Iberia S.A.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              26            644.61             779.98  OMS-113353
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-JUNIO-25.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - JUNIO 2025    NaN                  NaN           NaN                          NaN            NaN                                                   NaN             NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                          NaN            NaN                                                   NaN             NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                      Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Total (€)   Nº Pedido
+3                                             V25-09844      1           12/06/2025         C0563           Agropec Minho S.A.        GM-3031                 Clavos galvanizados 2.0mm caja [1031]              28             375.61  OMS-145062
+4                                             V25-09631      2           03/06/2025         C0492       Ferreteria Garcia S.A.        GM-3032                 Clavos galvanizados 2.4mm caja [1032]              55            1071.02  OMS-144844
+5                                             V25-09847      4           25/06/2025         C0565          Redes Alentejo Lda.        GM-3024               Alambre de puas 2.7mm rollo 250m [1024]              38            2093.71  OMS-145065
+6                                             V25-09874      1           12/06/2025         C0577           Acos do Porto Lda.        GM-3001    Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              12             320.89  OMS-145092
+7                                             V25-09687      3           06/06/2025         C0510         Cercados Iberia S.L.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               1             749.81  OMS-144900
+8                                             V25-09801      2  2025-06-25 00:00:00         C0546          Redes Alentejo Lda.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]              41            1648.04  OMS-145018
+9                                             V25-09779      3           12/06/2025         C0540          Redes Alentejo S.A.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              11             406.27  OMS-144995
+10                                            V25-09739      1           16/06/2025         C0528          Mallas del Sur S.A.        GM-3008                 Malla hexagonal 50mm rollo 25m [1008]             125            2122.18  OMS-144953
+11                                            V25-09899      1           27/06/2025         C0588    Ferramenta Toscana S.r.l.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]               7             764.32  OMS-145117
+12                                            V25-09390      1  2025-06-30 00:00:00         C0414  Mallas del Sur e Hijos S.L.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               2            1245.59  OMS-144601
+13                                            V25-09935      3           13/06/2025         C0611    Ferramenta Toscana S.r.l.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              11              364.8  OMS-145154
+14                                            V25-09511      1  2025-06-05 00:00:00         C0451          Mallas del Sur S.L.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               3            1606.13  OMS-144723
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-JUNIO-26.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - JUNIO 2026    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                        Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V26-16515      1           10/06/2026         C0496          Mallas del Sur S.L.U.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               1            679.76             822.51  OMS-177535
+4                                             V26-16279      2           12/06/2026         C0423  Hierros Castilla e Hijos S.L.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1            413.32             500.12  OMS-177297
+5                                             V26-16562      1  2026-06-03 00:00:00         C0511         Ferreteria Garcia S.L.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]              57           1747.98            2115.06  OMS-177583
+6                                             V26-16753      1           12/06/2026         C0577             Acos do Porto Lda.        GM-3013               Alambre galvanizado 1.6mm bobina [1013]              19            943.44            1141.56  OMS-177774
+7                                             V26-16386      1           04/06/2026         C0454    Aceros Levante e Hijos S.L.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              29            811.36             981.75  OMS-177404
+8                                             V26-16637      3           09/06/2026         C0535       Vallas Mediterraneo S.A.        GM-3031                 Clavos galvanizados 2.0mm caja [1031]             154           1586.33            1919.46  OMS-177658
+9                                             V26-16836      2  2026-06-22 00:00:00         C0618      Ferramenta Toscana S.p.A.        GM-3011                Malla hexagonal 150mm rollo 25m [1011]              50           1511.23            1828.59  OMS-177857
+10                                            V26-16284      1           17/06/2026         C0424           Comercial Norte S.L.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]              79           2693.97             3259.7  OMS-177302
+11                                            V26-16411      2           09/06/2026         C0465       Vallas Mediterraneo S.L.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               1            573.12             693.48  OMS-177429
+12                                            V26-16813      1           02/06/2026         C0612             Reti Emilia S.n.c.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]              12            417.36             505.01  OMS-177834
+13                                            V26-16382      2           09/06/2026         C0453            Mallas del Sur S.A.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]              45           1213.86            1468.77  OMS-177400
+14                                            V26-16669      1           04/06/2026         C0543          Ferragens Lisboa S.A.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              34            960.13            1161.76  OMS-177690
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-MARZO-24.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - MARZO 2024    NaN                  NaN           NaN                                  NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                                  NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                              Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V24-00803      2           07/03/2024         C0451                  Mallas del Sur S.L.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]             108           2517.65            3046.36  OMS-105145
+4                                             V24-01255      1           13/03/2024         C0617            Ferramenta Toscana S.p.A.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]              90           3250.89            3933.58  OMS-105600
+5                                             V24-01118      1           27/03/2024         C0559                Ferragens Lisboa S.A.        GM-3024               Alambre de puas 2.7mm rollo 250m [1024]              17            712.26             861.83  OMS-105462
+6                                             V24-01241      2           12/03/2024         C0614              Agritec Piemonte S.r.l.        GM-3006    Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]              39           1379.22            1668.86  OMS-105586
+7                                             V24-01222      2           26/03/2024         C0610             Recinzioni Veneto S.p.A.        GM-3005    Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              40           1256.82            1520.75  OMS-105567
+8                                             V24-00760      2           04/03/2024         C0430  Agropecuaria Extremena e Hijos S.L.        GM-3025              Cerca ganadera 50 nudos rollo 50m [1025]              30           1137.61            1376.51  OMS-105102
+9                                             V24-00917      1           12/03/2024         C0492               Ferreteria Garcia S.A.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              25            729.96             883.25  OMS-105260
+10                                            V24-01086      2           05/03/2024         C0546                  Redes Alentejo Lda.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]              96               512             619.52  OMS-105429
+11                                            V24-00777      3           12/03/2024         C0439         Cercados Iberia e Hijos S.L.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]             183            5381.9             6512.1  OMS-105119
+12                                            V24-01072      1  2024-03-26 00:00:00         C0539          Agropecuaria Extremena S.A.        GM-3007    Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]              10            349.99             423.49  OMS-105415
+13                                            V24-01260      2           06/03/2024         C0618            Ferramenta Toscana S.p.A.        GM-3024               Alambre de puas 2.7mm rollo 250m [1024]              25            958.16            1159.37  OMS-105605
+14                                            V24-01250      1           15/03/2024         C0615              Agritec Piemonte S.r.l.        GM-3031                 Clavos galvanizados 2.0mm caja [1031]              48            562.09             680.13  OMS-105595
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-MARZO-25.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - MARZO 2025    NaN                  NaN           NaN                           NaN            NaN                                                   NaN             NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                           NaN            NaN                                                   NaN             NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                       Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Total (€)   Nº Pedido
+3                                             V25-07534      1           17/03/2025         C0450      Ferreteria Garcia S.L.U.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]              11             297.55  OMS-135756
+4                                             V25-07769      2           11/03/2025         C0526          Comercial Norte S.L.        GM-3023               Alambre de puas 2.4mm rollo 250m [1023]              18             829.18  OMS-135993
+5                                             V25-07879      4           05/03/2025         C0561            Agropec Minho S.A.        GM-3011                Malla hexagonal 150mm rollo 25m [1011]              90            3618.81  OMS-136105
+6                                             V25-07401      1           10/03/2025         C0405      Vallas Mediterraneo S.L.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]               6             206.58  OMS-135623
+7                                             V25-07753      1  2025-03-25 00:00:00         C0519          Comercial Norte S.L.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               1             789.52  OMS-135977
+8                                             V25-07537      1           27/03/2025         C0451           Mallas del Sur S.L.        GM-3024               Alambre de puas 2.7mm rollo 250m [1024]              19             858.64  OMS-135759
+9                                             V25-07919      2           26/03/2025         C0577            Acos do Porto Lda.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               3            1925.96  OMS-136145
+10                                            V25-07505      2           27/03/2025         C0439  Cercados Iberia e Hijos S.L.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]               8             331.07  OMS-135727
+11                                            V25-07857      2           18/03/2025         C0554            Acos do Porto Lda.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]              41            4546.16  OMS-136083
+12                                            V25-07791      2  2025-03-13 00:00:00         C0533  Cercados Iberia e Hijos S.L.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               1             875.81  OMS-136015
+13                                            V25-07388      2           11/03/2025         C0400        Comercial Norte S.L.U.        GM-3015               Alambre galvanizado 2.4mm bobina [1015]               2             462.99  OMS-135609
+14                                            V25-07832      3           24/03/2025         C0543         Ferragens Lisboa S.A.        GM-3024               Alambre de puas 2.7mm rollo 250m [1024]               7             306.25  OMS-136057
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-MARZO-26.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - MARZO 2026    NaN                  NaN           NaN                          NaN            NaN                                        NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                          NaN            NaN                                        NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                      Cliente  Cód. Artículo                                Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V26-14584      2           19/03/2026         C0503        Mallas del Sur S.L.U.        GM-3013    Alambre galvanizado 1.6mm bobina [1013]              11            523.36             633.27  OMS-168449
+4                                             V26-14442      1           13/03/2026         C0454  Aceros Levante e Hijos S.L.        GM-3035      Clavos galvanizados 3.4mm caja [1035]              14            500.12             605.15  OMS-168307
+5                                             V26-14310      6  2026-03-16 00:00:00         C0419         Cercados Iberia S.L.        GM-3019    Alambre galvanizado 3.9mm bobina [1019]               1            569.04             688.54  OMS-168171
+6                                             V26-14333      1           25/03/2026         C0424         Comercial Norte S.L.        GM-3012     Malla hexagonal 200mm rollo 25m [1012]             127           4584.71             5547.5  OMS-168195
+7                                             V26-14700      2  2026-03-24 00:00:00         C0540          Redes Alentejo S.A.        GM-3016    Alambre galvanizado 2.7mm bobina [1016]               5           1562.87            1891.07  OMS-168565
+8                                             V26-14846      2  2026-03-30 00:00:00         C0602           Reti Emilia S.p.A.        GM-3022    Alambre de puas 2.0mm rollo 250m [1022]              14             493.3             596.89  OMS-168711
+9                                             V26-14629      4  2026-03-10 00:00:00         C0515        Suministros Ebro S.L.        GM-3028  Cerca ganadera 150 nudos rollo 50m [1028]               8            616.86              746.4  OMS-168494
+10                                            V26-14285      3           11/03/2026         C0413        Suministros Ebro S.L.        GM-3019    Alambre galvanizado 3.9mm bobina [1019]               2            1219.6            1475.72  OMS-168145
+11                                            V26-14471      2  2026-03-10 00:00:00         C0465     Vallas Mediterraneo S.L.        GM-3008      Malla hexagonal 50mm rollo 25m [1008]             115           1924.48            2328.62  OMS-168336
+12                                            V26-14280      1           25/03/2026         C0411     Ferreteria Garcia S.L.U.        GM-3034      Clavos galvanizados 3.0mm caja [1034]              31            852.33            1031.32  OMS-168139
+13                                            V26-14873      1           12/03/2026         C0613      Agritec Piemonte S.n.c.        GM-3025   Cerca ganadera 50 nudos rollo 50m [1025]             100           3890.35            4707.32  OMS-168739
+14                                            V26-14454      1           17/03/2026         C0459        Hierros Castilla S.L.        GM-3014    Alambre galvanizado 2.0mm bobina [1014]              11           1499.33            1814.19  OMS-168319
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-SEPTIEMBRE-24.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - SEPTIEMBRE 2024    NaN                  NaN           NaN                          NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                        NaN    NaN                  NaN           NaN                          NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                                 Nº Factura  Línea                Fecha  Cód. Cliente                      Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                                  V24-04330      3           03/09/2024         C0471  Agropecuaria Extremena S.L.        GM-3024             Alambre de puas 2.7mm rollo 250m [1024]               7            293.52             355.16  OMS-120807
+4                                                  V24-04529      2           23/09/2024         C0539  Agropecuaria Extremena S.A.        GM-3035               Clavos galvanizados 3.4mm caja [1035]              17            581.32              703.4  OMS-121009
+5                                                  V24-04278      2           24/09/2024         C0449        Suministros Ebro S.A.        GM-3000  Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]             105           1962.19            2374.25  OMS-120755
+6                                                  V24-04681      1           30/09/2024         C0606    Ferramenta Toscana S.r.l.        GM-3021             Alambre de puas 1.6mm rollo 250m [1021]              23             640.5                775  OMS-121162
+7                                                  V24-04627      3           10/09/2024         C0578           Acos do Porto S.A.        GM-3032               Clavos galvanizados 2.4mm caja [1032]              46             836.3            1011.92  OMS-121107
+8                                                  V24-04171      1           17/09/2024         C0414  Mallas del Sur e Hijos S.L.        GM-3019             Alambre galvanizado 3.9mm bobina [1019]               4           2312.38            2797.98  OMS-120647
+9                                                  V24-04368      2           13/09/2024         C0485          Mallas del Sur S.L.        GM-3019             Alambre galvanizado 3.9mm bobina [1019]               1            588.88             712.54  OMS-120845
+10                                                 V24-04622      3           27/09/2024         C0577           Acos do Porto Lda.        GM-3015             Alambre galvanizado 2.4mm bobina [1015]               2            431.93             522.64  OMS-121102
+11                                                 V24-04350      1  2024-09-20 00:00:00         C0478       Cercados Iberia S.L.U.        GM-3008               Malla hexagonal 50mm rollo 25m [1008]              74            962.68            1164.84  OMS-120827
+12                                                 V24-04161      4  2024-09-25 00:00:00         C0411     Ferreteria Garcia S.L.U.        GM-3030               Clavos galvanizados 1.6mm caja [1030]              96            574.69             695.37  OMS-120636
+13                                                 V24-04606      1           20/09/2024         C0568           Acos do Porto S.A.        GM-3018             Alambre galvanizado 3.4mm bobina [1018]               1            485.03             586.89  OMS-121086
+14                                                 V24-04220      1  2024-09-19 00:00:00         C0429          Aceros Levante S.A.        GM-3008               Malla hexagonal 50mm rollo 25m [1008]              76            990.55            1198.57  OMS-120696
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\VENTAS-SEPTIEMBRE-25.xlsx
+====================================================================================================
+
+HOJA: Hoja1
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - SEPTIEMBRE 2025    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                        NaN    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                                 Nº Factura  Línea                Fecha  Cód. Cliente                        Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                                  V25-11239      3  2025-09-02 00:00:00         C0513    Aceros Levante e Hijos S.L.        GM-3023               Alambre de puas 2.4mm rollo 250m [1023]              19            648.76                785  OMS-152893
+4                                                  V25-11084      1           19/09/2025         C0464       Vallas Mediterraneo S.A.        GM-3031                 Clavos galvanizados 2.0mm caja [1031]              48            532.03             643.76  OMS-152737
+5                                                  V25-10912      3           04/09/2025         C0411       Ferreteria Garcia S.L.U.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]               6            578.98             700.57  OMS-152564
+6                                                  V25-11475      2           08/09/2025         C0610       Recinzioni Veneto S.p.A.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              65           1936.67            2343.37  OMS-153133
+7                                                  V25-11227      3           04/09/2025         C0511         Ferreteria Garcia S.L.        GM-3007    Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]              13            512.68             620.34  OMS-152881
+8                                                  V25-10911      4           18/09/2025         C0411       Ferreteria Garcia S.L.U.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]              16            866.41            1048.36  OMS-152563
+9                                                  V25-11318      1           24/09/2025         C0538            Mallas del Sur S.A.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               3            1227.5            1485.27  OMS-152974
+10                                                 V25-11031      3           01/09/2025         C0449          Suministros Ebro S.A.        GM-3016               Alambre galvanizado 2.7mm bobina [1016]               1            321.78             389.35  OMS-152684
+11                                                 V25-11420      1           25/09/2025         C0572  Acos do Porto Unipessoal Lda.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]             137           3385.78            4096.79  OMS-153077
+12                                                 V25-11417      1           16/09/2025         C0570             Agropec Minho S.A.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]              19           1002.01            1212.43  OMS-153074
+13                                                 V25-11062      4           26/09/2025         C0454    Aceros Levante e Hijos S.L.        GM-3001    Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              24             543.5             657.63  OMS-152715
+14                                                 V25-11192      1           15/09/2025         C0497            Mallas del Sur S.A.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]              57           1832.25            2217.02  OMS-152846
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Abril_2024.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - ABRIL 2024    NaN                  NaN           NaN                             NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                             NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                         Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V24-01510      1           22/04/2024         C0478          Cercados Iberia S.L.U.        GM-3032                 Clavos galvanizados 2.4mm caja [1032]              29            431.25             521.81  OMS-108028
+4                                             V24-01276      2           16/04/2024         C0403    Cercados Iberia e Hijos S.L.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               3           2102.24            2543.71  OMS-107794
+5                                             V24-01631      1           24/04/2024         C0522            Comercial Norte S.A.        GM-3010                Malla hexagonal 100mm rollo 25m [1010]              33            860.86            1041.64  OMS-108149
+6                                             V24-01790      1           19/04/2024         C0580         Agritec Piemonte S.r.l.        GM-3031                 Clavos galvanizados 2.0mm caja [1031]             152           1553.47             1879.7  OMS-108309
+7                                             V24-01815      3  2024-04-16 00:00:00         C0591         Acciai Lombardia S.n.c.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]             116           2523.05            3052.89  OMS-108334
+8                                             V24-01316      1  2024-04-03 00:00:00         C0417  Ferreteria Garcia e Hijos S.L.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              76           1968.55            2381.95  OMS-107834
+9                                             V24-01437      2           09/04/2024         C0451             Mallas del Sur S.L.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               1             659.2             797.63  OMS-107955
+10                                            V24-01486      5           04/04/2024         C0471     Agropecuaria Extremena S.L.        GM-3013               Alambre galvanizado 1.6mm bobina [1013]               6            261.42             316.32  OMS-108004
+11                                            V24-01490      1           30/04/2024         C0473          Comercial Norte S.L.U.        GM-3023               Alambre de puas 2.4mm rollo 250m [1023]              38           1284.21            1553.89  OMS-108008
+12                                            V24-01589      2           02/04/2024         C0510            Cercados Iberia S.L.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               1            466.83             564.86  OMS-108107
+13                                            V24-01769      1  2024-04-26 00:00:00         C0570              Agropec Minho S.A.        GM-3016               Alambre galvanizado 2.7mm bobina [1016]               4           1236.07            1495.64  OMS-108288
+14                                            V24-01423      5           09/04/2024         C0450        Ferreteria Garcia S.L.U.        GM-3014               Alambre galvanizado 2.0mm bobina [1014]               4            439.74             532.09  OMS-107941
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Abril_2025.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - ABRIL 2025    NaN                  NaN           NaN                          NaN            NaN                                                 NaN             NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                          NaN            NaN                                                 NaN             NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                      Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Total (€)   Nº Pedido
+3                                             V25-08114      3           09/04/2025         C0427        Hierros Castilla S.L.        GM-3027           Cerca ganadera 100 nudos rollo 50m [1027]               4             286.41  OMS-138747
+4                                             V25-08081      1           30/04/2025         C0419         Cercados Iberia S.L.        GM-3021             Alambre de puas 1.6mm rollo 250m [1021]              20             638.24  OMS-138714
+5                                             V25-08507      1           23/04/2025         C0546          Redes Alentejo Lda.        GM-3034               Clavos galvanizados 3.0mm caja [1034]             212               6970  OMS-139141
+6                                             V25-08239      1           11/04/2025         C0472        Suministros Ebro S.A.        GM-3027           Cerca ganadera 100 nudos rollo 50m [1027]              16            1297.66  OMS-138872
+7                                             V25-08685      3           30/04/2025         C0614      Agritec Piemonte S.r.l.        GM-3001  Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              26             691.59  OMS-139320
+8                                             V25-08335      2           21/04/2025         C0497          Mallas del Sur S.A.        GM-3032               Clavos galvanizados 2.4mm caja [1032]             544            11908.3  OMS-138968
+9                                             V25-08500      3           15/04/2025         C0544        Ferragens Lisboa Lda.        GM-3016             Alambre galvanizado 2.7mm bobina [1016]               6            2242.57  OMS-139134
+10                                            V25-08346      2           30/04/2025         C0500  Agropecuaria Extremena S.L.        GM-3029           Cerca ganadera 200 nudos rollo 50m [1029]              13            1412.23  OMS-138979
+11                                            V25-08101      2  2025-04-28 00:00:00         C0422  Agropecuaria Extremena S.L.        GM-3012              Malla hexagonal 200mm rollo 25m [1012]              48            2075.86  OMS-138734
+12                                            V25-08392      1           28/04/2025         C0514        Hierros Castilla S.L.        GM-3026            Cerca ganadera 75 nudos rollo 50m [1026]               4             259.09  OMS-139026
+13                                            V25-08260      3           15/04/2025         C0478       Cercados Iberia S.L.U.        GM-3034               Clavos galvanizados 3.0mm caja [1034]              13             438.04  OMS-138893
+14                                            V25-08181      3           23/04/2025         C0448          Aceros Levante S.A.        GM-3016             Alambre galvanizado 2.7mm bobina [1016]               3            1175.12  OMS-138814
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Abril_2026.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - ABRIL 2026    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                           Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V26-15342      1  2026-04-10 00:00:00         C0537               Aceros Levante S.L.        GM-3000    Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]              13            247.23             299.15  OMS-171695
+4                                             V26-15139      3  2026-04-02 00:00:00         C0478            Cercados Iberia S.L.U.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]               5            406.12             491.41  OMS-171491
+5                                             V26-15516      3           24/04/2026         C0612                Reti Emilia S.n.c.        GM-3013               Alambre galvanizado 1.6mm bobina [1013]               6            248.99             301.28  OMS-171871
+6                                             V26-15426      2           30/04/2026         C0563                Agropec Minho S.A.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]              23            674.97             816.71  OMS-171779
+7                                             V26-14915      2           14/04/2026         C0408       Aceros Levante e Hijos S.L.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              42           1293.77            1565.46  OMS-171264
+8                                             V26-15353      3  2026-04-13 00:00:00         C0540               Redes Alentejo S.A.        GM-3005    Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]               3            100.17             121.21  OMS-171706
+9                                             V26-15116      1           15/04/2026         C0471       Agropecuaria Extremena S.L.        GM-3010                Malla hexagonal 100mm rollo 25m [1010]              57           1505.32            1821.44  OMS-171468
+10                                            V26-15530      2           16/04/2026         C0613           Agritec Piemonte S.n.c.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              25            596.65             721.95  OMS-171885
+11                                            V26-15405      6  2026-04-21 00:00:00         C0557  Ferragens Lisboa Unipessoal Lda.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               2            1202.2            1454.66  OMS-171758
+12                                            V26-15245      4           08/04/2026         C0511            Ferreteria Garcia S.L.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]              71           2240.96            2711.56  OMS-171598
+13                                            V26-15389      2           01/04/2026         C0549                Agropec Minho S.A.        GM-3028             Cerca ganadera 150 nudos rollo 50m [1028]               6            521.75             631.32  OMS-171742
+14                                            V26-14969      3           09/04/2026         C0424              Comercial Norte S.L.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             704           3475.49            4205.34  OMS-171320
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_ago_24.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - AGOSTO 2024    NaN                  NaN           NaN                           NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                    NaN    NaN                  NaN           NaN                           NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                             Nº Factura  Línea                Fecha  Cód. Cliente                       Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                              V24-04020      2           15/08/2024         C0566            Acos do Porto Lda.        GM-3013             Alambre galvanizado 1.6mm bobina [1013]              20            880.59            1065.51  OMS-118387
+4                                              V24-03767      3           20/08/2024         C0461  Cercados Iberia e Hijos S.L.        GM-3026            Cerca ganadera 75 nudos rollo 50m [1026]              18            942.58            1140.52  OMS-118132
+5                                              V24-04017      4           29/08/2024         C0565           Redes Alentejo Lda.        GM-3029           Cerca ganadera 200 nudos rollo 50m [1029]              10            964.64            1167.21  OMS-118384
+6                                              V24-03929      1           09/08/2024         C0528           Mallas del Sur S.A.        GM-3011              Malla hexagonal 150mm rollo 25m [1011]              45           1334.66            1614.94  OMS-118296
+7                                              V24-03761      1           09/08/2024         C0459         Hierros Castilla S.L.        GM-3010              Malla hexagonal 100mm rollo 25m [1010]              38            989.76            1197.61  OMS-118126
+8                                              V24-03961      1           12/08/2024         C0539   Agropecuaria Extremena S.A.        GM-3006  Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]              11            344.99             417.44  OMS-118328
+9                                              V24-03741      4           13/08/2024         C0450      Ferreteria Garcia S.L.U.        GM-3006  Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]              33           1066.45             1290.4  OMS-118106
+10                                             V24-03842      2           23/08/2024         C0494          Cercados Iberia S.A.        GM-3008               Malla hexagonal 50mm rollo 25m [1008]             134           1815.39            2196.62  OMS-118209
+11                                             V24-03696      3           05/08/2024         C0429           Aceros Levante S.A.        GM-3024             Alambre de puas 2.7mm rollo 250m [1024]             176           6468.54            7826.93  OMS-118061
+12                                             V24-03857      2           30/08/2024         C0499        Comercial Norte S.L.U.        GM-3006  Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]              25            794.81             961.72  OMS-118224
+13                                             V24-03740      3  2024-08-16 00:00:00         C0449         Suministros Ebro S.A.        GM-3029           Cerca ganadera 200 nudos rollo 50m [1029]              14           1234.93            1494.27  OMS-118105
+14                                             V24-04009      1           01/08/2024         C0561            Agropec Minho S.A.        GM-3035               Clavos galvanizados 3.4mm caja [1035]             101            3881.1            4696.13  OMS-118376
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_ago_25.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - AGOSTO 2025    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                    NaN    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                             Nº Factura  Línea                Fecha  Cód. Cliente                           Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                              V25-10874      2           28/08/2025         C0613           Agritec Piemonte S.n.c.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]              20           1639.76            1984.11  OMS-150253
+4                                              V25-10723      2           04/08/2025         C0513       Aceros Levante e Hijos S.L.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              64           1884.85            2280.67  OMS-150102
+5                                              V25-10691      4           06/08/2025         C0492            Ferreteria Garcia S.A.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             280           1699.75             2056.7  OMS-150070
+6                                              V25-10725      2           29/08/2025         C0513       Aceros Levante e Hijos S.L.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               2            983.61            1190.17  OMS-150104
+7                                              V25-10866      1  2025-08-13 00:00:00         C0610          Recinzioni Veneto S.p.A.        GM-3033                 Clavos galvanizados 2.7mm caja [1033]              44           1022.36            1237.06  OMS-150245
+8                                              V25-10599      1           14/08/2025         C0429               Aceros Levante S.A.        GM-3000    Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]              10            172.64             208.89  OMS-149978
+9                                              V25-10579      1           27/08/2025         C0418  Vallas Mediterraneo e Hijos S.L.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]              17               552             667.92  OMS-149958
+10                                             V25-10778      1  2025-08-13 00:00:00         C0542     Agropec Minho Unipessoal Lda.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]              47           1196.98            1448.35  OMS-150157
+11                                             V25-10741      5  2025-08-20 00:00:00         C0523             Hierros Castilla S.A.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]               9            244.75             296.15  OMS-150120
+12                                             V25-10588      2           05/08/2025         C0421             Suministros Ebro S.A.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               1            815.84             987.17  OMS-149967
+13                                             V25-10653      1  2025-08-06 00:00:00         C0465          Vallas Mediterraneo S.L.        GM-3024               Alambre de puas 2.7mm rollo 250m [1024]              11            499.15             603.97  OMS-150032
+14                                             V25-10813      2           14/08/2025         C0565               Redes Alentejo Lda.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]              46           1139.74            1379.09  OMS-150192
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Enero_2024.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - ENERO 2024    NaN                  NaN           NaN                            NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                            NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                        Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V24-00056      3  2024-01-15 00:00:00         C0433         Ferreteria Garcia S.A.        GM-3027           Cerca ganadera 100 nudos rollo 50m [1027]               8            516.36              624.8  OMS-100974
+4                                             V24-00150      2           19/01/2024         C0511         Ferreteria Garcia S.L.        GM-3012              Malla hexagonal 200mm rollo 25m [1012]              16            582.43             704.74  OMS-101069
+5                                             V24-00082      2           09/01/2024         C0458         Comercial Norte S.L.U.        GM-3016             Alambre galvanizado 2.7mm bobina [1016]               1            313.33             379.13  OMS-101000
+6                                             V24-00215      1           16/01/2024         C0564  Agropec Minho Unipessoal Lda.        GM-3001  Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              11            234.95             284.29  OMS-101135
+7                                             V24-00083      2           25/01/2024         C0458         Comercial Norte S.L.U.        GM-3031               Clavos galvanizados 2.0mm caja [1031]              80            897.49            1085.96  OMS-101001
+8                                             V24-00002      1  2024-01-08 00:00:00         C0400         Comercial Norte S.L.U.        GM-3005  Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              18            513.09             620.84  OMS-100920
+9                                             V24-00199      2           19/01/2024         C0551             Acos do Porto Lda.        GM-3031               Clavos galvanizados 2.0mm caja [1031]              57             590.8             714.87  OMS-101119
+10                                            V24-00161      2  2024-01-19 00:00:00         C0517       Vallas Mediterraneo S.L.        GM-3020             Alambre galvanizado 4.2mm bobina [1020]               1            620.45             750.74  OMS-101080
+11                                            V24-00112      2  2024-01-02 00:00:00         C0480          Aceros Levante S.L.U.        GM-3001  Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              83           1647.33            1993.27  OMS-101030
+12                                            V24-00001      1           24/01/2024         C0400         Comercial Norte S.L.U.        GM-3031               Clavos galvanizados 2.0mm caja [1031]             129           1144.56            1384.92  OMS-100919
+13                                            V24-00032      1           29/01/2024         C0419           Cercados Iberia S.L.        GM-3035               Clavos galvanizados 3.4mm caja [1035]              42           1439.03            1741.23  OMS-100950
+14                                            V24-00183      3           29/01/2024         C0537            Aceros Levante S.L.        GM-3012              Malla hexagonal 200mm rollo 25m [1012]              12             447.1             540.99  OMS-101103
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Enero_2025.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - ENERO 2025    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                            NaN            NaN                                                   NaN             NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                        Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Total (€)   Nº Pedido
+3                                             V25-06648      1  2025-01-17 00:00:00         C0540            Redes Alentejo S.A.        GM-3013               Alambre galvanizado 1.6mm bobina [1013]              12             655.97  OMS-130627
+4                                             V25-06805      1  2025-01-15 00:00:00         C0614        Agritec Piemonte S.r.l.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              11             391.01  OMS-130784
+5                                             V25-06306      3  2025-01-30 00:00:00         C0400         Comercial Norte S.L.U.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]            1065             6455.2  OMS-130284
+6                                             V25-06684      3  2025-01-31 00:00:00         C0554             Acos do Porto Lda.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]              30             765.51  OMS-130663
+7                                             V25-06427      3  2025-01-03 00:00:00         C0449          Suministros Ebro S.A.        GM-3032                 Clavos galvanizados 2.4mm caja [1032]              55            1134.29  OMS-130405
+8                                             V25-06546      4           23/01/2025         C0500    Agropecuaria Extremena S.L.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]              11             425.51  OMS-130525
+9                                             V25-06675      1  2025-01-24 00:00:00         C0548  Acos do Porto Unipessoal Lda.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             265            2077.91  OMS-130654
+10                                            V25-06457      1           10/01/2025         C0464       Vallas Mediterraneo S.A.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]              16             746.91  OMS-130435
+11                                            V25-06514      1           15/01/2025         C0491           Cercados Iberia S.A.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1             548.29  OMS-130493
+12                                            V25-06789      2           16/01/2025         C0610       Recinzioni Veneto S.p.A.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]              28            1318.94  OMS-130768
+13                                            V25-06596      1           13/01/2025         C0521            Aceros Levante S.L.        GM-3025              Cerca ganadera 50 nudos rollo 50m [1025]             215           10816.42  OMS-130575
+14                                            V25-06352      4           27/01/2025         C0419           Cercados Iberia S.L.        GM-3008                 Malla hexagonal 50mm rollo 25m [1008]             115            1923.08  OMS-130330
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Enero_2026.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - ENERO 2026    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                           Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V26-13288      3           07/01/2026         C0437          Vallas Mediterraneo S.A.        GM-3025              Cerca ganadera 50 nudos rollo 50m [1025]               5            206.16             249.45  OMS-162866
+4                                             V26-13298      3  2026-01-22 00:00:00         C0442      Comercial Norte e Hijos S.L.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]             154           4326.87            5235.51  OMS-162876
+5                                             V26-13407      1  2026-01-15 00:00:00         C0488            Comercial Norte S.L.U.        GM-3032                 Clavos galvanizados 2.4mm caja [1032]              21            295.23             357.23  OMS-162987
+6                                             V26-13564      5           26/01/2026         C0546               Redes Alentejo Lda.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]              11            551.55             667.38  OMS-163146
+7                                             V26-13209      3           19/01/2026         C0412           Suministros Ebro S.L.U.        GM-3033                 Clavos galvanizados 2.7mm caja [1033]              37             801.2             969.45  OMS-162787
+8                                             V26-13268      2           08/01/2026         C0429               Aceros Levante S.A.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              80           2167.97            2623.24  OMS-162846
+9                                             V26-13535      4           08/01/2026         C0538               Mallas del Sur S.A.        GM-3011                Malla hexagonal 150mm rollo 25m [1011]              12            377.61             456.91  OMS-163116
+10                                            V26-13519      2           06/01/2026         C0531               Mallas del Sur S.L.        GM-3016               Alambre galvanizado 2.7mm bobina [1016]               8           2515.92            3044.26  OMS-163100
+11                                            V26-13453      3           21/01/2026         C0507             Suministros Ebro S.A.        GM-3028             Cerca ganadera 150 nudos rollo 50m [1028]               4            320.61             387.94  OMS-163033
+12                                            V26-13395      1           27/01/2026         C0481            Comercial Norte S.L.U.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]               8            275.02             332.77  OMS-162974
+13                                            V26-13228      4           19/01/2026         C0418  Vallas Mediterraneo e Hijos S.L.        GM-3029             Cerca ganadera 200 nudos rollo 50m [1029]               4            390.26             472.21  OMS-162806
+14                                            V26-13230      1           30/01/2026         C0419              Cercados Iberia S.L.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             776           4101.29            4962.56  OMS-162808
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_feb_24.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - FEBRERO 2024    NaN                  NaN           NaN                             NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                     NaN    NaN                  NaN           NaN                             NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                              Nº Factura  Línea                Fecha  Cód. Cliente                         Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                               V24-00560      1           21/02/2024         C0555  Redes Alentejo Unipessoal Lda.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              28            803.07             971.71  OMS-102842
+4                                               V24-00376      3           19/02/2024         C0455     Aceros Levante e Hijos S.L.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              21             661.8             800.78  OMS-102657
+5                                               V24-00509      3           26/02/2024         C0528             Mallas del Sur S.A.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]              25            794.71              961.6  OMS-102791
+6                                               V24-00345      1  2024-02-07 00:00:00         C0434            Comercial Norte S.A.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              13            350.32             423.89  OMS-102626
+7                                               V24-00657      2           29/02/2024         C0619         Agritec Piemonte S.p.A.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               1            766.74             927.76  OMS-102939
+8                                               V24-00518      3           26/02/2024         C0532   Agropecuaria Extremena S.L.U.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              20            565.39             684.12  OMS-102800
+9                                               V24-00613      2           06/02/2024         C0593       Ferramenta Toscana S.n.c.        GM-3001    Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]               8            167.24             202.36  OMS-102895
+10                                              V24-00297      2           28/02/2024         C0412         Suministros Ebro S.L.U.        GM-3005    Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              22            697.75             844.28  OMS-102578
+11                                              V24-00438      2           20/02/2024         C0490            Comercial Norte S.A.        GM-3028             Cerca ganadera 150 nudos rollo 50m [1028]              27           1936.19            2342.79  OMS-102720
+12                                              V24-00631      4           26/02/2024         C0608       Ferramenta Toscana S.n.c.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]               5            119.39             144.46  OMS-102913
+13                                              V24-00300      2           20/02/2024         C0415           Hierros Castilla S.A.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             263           1545.04             1869.5  OMS-102581
+14                                              V24-00594      3  2024-02-13 00:00:00         C0577              Acos do Porto Lda.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]              30             802.7             971.27  OMS-102876
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_feb_25.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - FEBRERO 2025    NaN                  NaN           NaN                             NaN            NaN                                                 NaN             NaN                NaN         NaN
+1                                                     NaN    NaN                  NaN           NaN                             NaN            NaN                                                 NaN             NaN                NaN         NaN
+2                                              Nº Factura  Línea                Fecha  Cód. Cliente                         Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Total (€)   Nº Pedido
+3                                               V25-07353      3           13/02/2025         C0611       Ferramenta Toscana S.r.l.        GM-3022             Alambre de puas 2.0mm rollo 250m [1022]              12             446.78  OMS-133313
+4                                               V25-07329      1           12/02/2025         C0594         Acciai Lombardia S.r.l.        GM-3027           Cerca ganadera 100 nudos rollo 50m [1027]              13             1071.7  OMS-133289
+5                                               V25-06852      2           19/02/2025         C0416             Mallas del Sur S.A.        GM-3032               Clavos galvanizados 2.4mm caja [1032]             293            5730.14  OMS-132806
+6                                               V25-07129      4           04/02/2025         C0516        Vallas Mediterraneo S.A.        GM-3008               Malla hexagonal 50mm rollo 25m [1008]             193            3693.55  OMS-133088
+7                                               V25-06902      1           06/02/2025         C0429             Aceros Levante S.A.        GM-3001  Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              20             449.43  OMS-132857
+8                                               V25-07360      1           10/02/2025         C0612              Reti Emilia S.n.c.        GM-3011              Malla hexagonal 150mm rollo 25m [1011]              41            1406.44  OMS-133320
+9                                               V25-06898      1           26/02/2025         C0429             Aceros Levante S.A.        GM-3032               Clavos galvanizados 2.4mm caja [1032]             108            2017.15  OMS-132853
+10                                              V25-07025      1           19/02/2025         C0478          Cercados Iberia S.L.U.        GM-3017             Alambre galvanizado 3.0mm bobina [1017]               2              908.9  OMS-132982
+11                                              V25-06871      1  2025-02-03 00:00:00         C0419            Cercados Iberia S.L.        GM-3010              Malla hexagonal 100mm rollo 25m [1010]              31              913.1  OMS-132826
+12                                              V25-07174      1           26/02/2025         C0534        Vallas Mediterraneo S.A.        GM-3026            Cerca ganadera 75 nudos rollo 50m [1026]              14             891.46  OMS-133133
+13                                              V25-06996      2           11/02/2025         C0469  Ferreteria Garcia e Hijos S.L.        GM-3018             Alambre galvanizado 3.4mm bobina [1018]               4            2547.53  OMS-132952
+14                                              V25-07086      2  2025-02-27 00:00:00         C0507           Suministros Ebro S.A.        GM-3022             Alambre de puas 2.0mm rollo 250m [1022]               8              310.2  OMS-133045
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_feb_26.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - FEBRERO 2026    NaN                  NaN           NaN                                  NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                     NaN    NaN                  NaN           NaN                                  NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                              Nº Factura  Línea                Fecha  Cód. Cliente                              Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                               V26-14020      2           05/02/2026         C0512         Cercados Iberia e Hijos S.L.        GM-3026            Cerca ganadera 75 nudos rollo 50m [1026]              36           1987.47            2404.84  OMS-165590
+4                                               V26-14101      1  2026-02-16 00:00:00         C0543                Ferragens Lisboa S.A.        GM-3026            Cerca ganadera 75 nudos rollo 50m [1026]              78           3884.35            4700.06  OMS-165672
+5                                               V26-14217      2           26/02/2026         C0607              Acciai Lombardia S.n.c.        GM-3022             Alambre de puas 2.0mm rollo 250m [1022]              26            857.05            1037.03  OMS-165788
+6                                               V26-13790      5           20/02/2026         C0430  Agropecuaria Extremena e Hijos S.L.        GM-3031               Clavos galvanizados 2.0mm caja [1031]             157            1546.4            1871.14  OMS-165358
+7                                               V26-14055      2           19/02/2026         C0522                 Comercial Norte S.A.        GM-3022             Alambre de puas 2.0mm rollo 250m [1022]              26            880.21            1065.05  OMS-165625
+8                                               V26-13787      1  2026-02-25 00:00:00         C0430  Agropecuaria Extremena e Hijos S.L.        GM-3019             Alambre galvanizado 3.9mm bobina [1019]               2           1255.19            1518.78  OMS-165355
+9                                               V26-14132      2           02/02/2026         C0558                   Agropec Minho S.A.        GM-3025            Cerca ganadera 50 nudos rollo 50m [1025]              13            589.16             712.88  OMS-165703
+10                                              V26-14126      1           04/02/2026         C0557     Ferragens Lisboa Unipessoal Lda.        GM-3005  Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              90           3052.78            3693.86  OMS-165697
+11                                              V26-14014      3           05/02/2026         C0510                 Cercados Iberia S.L.        GM-3013             Alambre galvanizado 1.6mm bobina [1013]              14            631.33             763.91  OMS-165584
+12                                              V26-14181      1           17/02/2026         C0580              Agritec Piemonte S.r.l.        GM-3005  Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              33            973.41            1177.83  OMS-165752
+13                                              V26-14242      1           04/02/2026         C0615              Agritec Piemonte S.r.l.        GM-3034               Clavos galvanizados 3.0mm caja [1034]               3             83.96             101.59  OMS-165813
+14                                              V26-14087      2           06/02/2026         C0538                  Mallas del Sur S.A.        GM-3020             Alambre galvanizado 4.2mm bobina [1020]               2           1495.11            1809.08  OMS-165657
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Julio_2024.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - JULIO 2024    NaN                  NaN           NaN                             NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                             NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                         Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V24-03553      1           17/07/2024         C0598              Reti Emilia S.n.c.        GM-3033                 Clavos galvanizados 2.7mm caja [1033]              31            711.17             860.52  OMS-116016
+4                                             V24-03144      4  2024-07-23 00:00:00         C0422     Agropecuaria Extremena S.L.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             255           1513.01            1830.74  OMS-115603
+5                                             V24-03121      3           03/07/2024         C0417  Ferreteria Garcia e Hijos S.L.        GM-3033                 Clavos galvanizados 2.7mm caja [1033]              24            525.86             636.29  OMS-115579
+6                                             V24-03170      1  2024-07-23 00:00:00         C0435   Agropecuaria Extremena S.L.U.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               2            751.56             909.39  OMS-115630
+7                                             V24-03520      1           19/07/2024         C0580         Agritec Piemonte S.r.l.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]              35             177.7             215.02  OMS-115983
+8                                             V24-03349      1  2024-07-16 00:00:00         C0513     Aceros Levante e Hijos S.L.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              32            831.19            1005.74  OMS-115811
+9                                             V24-03451      1           19/07/2024         C0550              Agropec Minho Lda.        GM-3007    Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]              24             948.4            1147.56  OMS-115913
+10                                            V24-03195      1           17/07/2024         C0449           Suministros Ebro S.A.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]              20            397.94             481.51  OMS-115657
+11                                            V24-03085      1           04/07/2024         C0402           Mallas del Sur S.L.U.        GM-3015               Alambre galvanizado 2.4mm bobina [1015]               4            797.94             965.51  OMS-115543
+12                                            V24-03079      5           03/07/2024         C0400          Comercial Norte S.L.U.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]              42           1000.03            1210.04  OMS-115537
+13                                            V24-03086      1           15/07/2024         C0403    Cercados Iberia e Hijos S.L.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              45           1309.83            1584.89  OMS-115544
+14                                            V24-03588      1           10/07/2024         C0613         Agritec Piemonte S.n.c.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]               9            246.98             298.85  OMS-116051
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Julio_2025.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - JULIO 2025    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                   NaN    NaN                  NaN           NaN                               NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                            Nº Factura  Línea                Fecha  Cód. Cliente                           Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                             V25-10005      1  2025-07-29 00:00:00         C0416               Mallas del Sur S.A.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]              21            447.87             541.92  OMS-147312
+4                                             V25-10513      2           14/07/2025         C0606         Ferramenta Toscana S.r.l.        GM-3021               Alambre de puas 1.6mm rollo 250m [1021]              16            438.92             531.09  OMS-147823
+5                                             V25-10500      4           23/07/2025         C0599          Recinzioni Veneto S.n.c.        GM-3020               Alambre galvanizado 4.2mm bobina [1020]               1             749.1             906.41  OMS-147810
+6                                             V25-10436      2           28/07/2025         C0568                Acos do Porto S.A.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]              10            254.47             307.91  OMS-147746
+7                                             V25-10305      3           25/07/2025         C0518             Mallas del Sur S.L.U.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              22            690.35             835.32  OMS-147613
+8                                             V25-10164      4           04/07/2025         C0470            Cercados Iberia S.L.U.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               1            528.35              639.3  OMS-147472
+9                                             V25-10500      3           23/07/2025         C0599          Recinzioni Veneto S.n.c.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]              34            674.83             816.54  OMS-147810
+10                                            V25-10342      2           11/07/2025         C0533      Cercados Iberia e Hijos S.L.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               1             608.7             736.53  OMS-147651
+11                                            V25-10271      2           31/07/2025         C0509  Vallas Mediterraneo e Hijos S.L.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1            409.71             495.75  OMS-147579
+12                                            V25-10249      1  2025-07-28 00:00:00         C0497               Mallas del Sur S.A.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              52           1639.36            1983.63  OMS-147557
+13                                            V25-10466      4           29/07/2025         C0580           Agritec Piemonte S.r.l.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              29             813.7             984.58  OMS-147776
+14                                            V25-09986      3           15/07/2025         C0409             Aceros Levante S.L.U.        GM-3022               Alambre de puas 2.0mm rollo 250m [1022]              65           2118.32            2563.17  OMS-147293
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_may_24.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - MAYO 2024    NaN                  NaN           NaN                             NaN            NaN                                        NaN             NaN               NaN                NaN         NaN
+1                                                  NaN    NaN                  NaN           NaN                             NaN            NaN                                        NaN             NaN               NaN                NaN         NaN
+2                                           Nº Factura  Línea                Fecha  Cód. Cliente                         Cliente  Cód. Artículo                                Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                            V24-02352      1           17/05/2024         C0559           Ferragens Lisboa S.A.        GM-3014    Alambre galvanizado 2.0mm bobina [1014]               3            354.45             428.88  OMS-110936
+4                                            V24-02421      1           02/05/2024         C0588       Ferramenta Toscana S.r.l.        GM-3031      Clavos galvanizados 2.0mm caja [1031]             141           1493.76            1807.45  OMS-111005
+5                                            V24-01991      2           08/05/2024         C0432             Mallas del Sur S.L.        GM-3033      Clavos galvanizados 2.7mm caja [1033]              37            824.29             997.39  OMS-110571
+6                                            V24-02476      5           03/05/2024         C0613         Agritec Piemonte S.n.c.        GM-3008      Malla hexagonal 50mm rollo 25m [1008]              71            903.77            1093.56  OMS-111060
+7                                            V24-02226      4           23/05/2024         C0514           Hierros Castilla S.L.        GM-3024    Alambre de puas 2.7mm rollo 250m [1024]              28            1125.5            1361.86  OMS-110809
+8                                            V24-01927      4           09/05/2024         C0416             Mallas del Sur S.A.        GM-3018    Alambre galvanizado 3.4mm bobina [1018]               1            435.79             527.31  OMS-110507
+9                                            V24-02221      2  2024-05-06 00:00:00         C0514           Hierros Castilla S.L.        GM-3013    Alambre galvanizado 1.6mm bobina [1013]              53           2421.45            2929.95  OMS-110804
+10                                           V24-02497      3           09/05/2024         C0618       Ferramenta Toscana S.p.A.        GM-3027  Cerca ganadera 100 nudos rollo 50m [1027]               4            238.51              288.6  OMS-111081
+11                                           V24-01930      1  2024-05-13 00:00:00         C0417  Ferreteria Garcia e Hijos S.L.        GM-3035      Clavos galvanizados 3.4mm caja [1035]              24            846.94             1024.8  OMS-110510
+12                                           V24-01974      3           31/05/2024         C0429             Aceros Levante S.A.        GM-3034      Clavos galvanizados 3.0mm caja [1034]             186           5266.39            6372.33  OMS-110554
+13                                           V24-02127      1           14/05/2024         C0486         Suministros Ebro S.L.U.        GM-3034      Clavos galvanizados 3.0mm caja [1034]              60           1864.71             2256.3  OMS-110710
+14                                           V24-01911      2           07/05/2024         C0411        Ferreteria Garcia S.L.U.        GM-3026   Cerca ganadera 75 nudos rollo 50m [1026]               5            277.48             335.75  OMS-110491
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_may_25.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - MAYO 2025    NaN                  NaN           NaN                           NaN            NaN                                                   NaN             NaN                NaN         NaN
+1                                                  NaN    NaN                  NaN           NaN                           NaN            NaN                                                   NaN             NaN                NaN         NaN
+2                                           Nº Factura  Línea                Fecha  Cód. Cliente                       Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Total (€)   Nº Pedido
+3                                            V25-09121      1  2025-05-22 00:00:00         C0534      Vallas Mediterraneo S.A.        GM-3018               Alambre galvanizado 3.4mm bobina [1018]               2            1209.13  OMS-142091
+4                                            V25-08966      2           22/05/2025         C0488        Comercial Norte S.L.U.        GM-3016               Alambre galvanizado 2.7mm bobina [1016]               5            1726.43  OMS-141933
+5                                            V25-09292      2           27/05/2025         C0596       Acciai Lombardia S.n.c.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]              53             1374.8  OMS-142266
+6                                            V25-08701      2  2025-05-22 00:00:00         C0400        Comercial Norte S.L.U.        GM-3003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]              26             722.73  OMS-141667
+7                                            V25-09070      1           14/05/2025         C0518         Mallas del Sur S.L.U.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]             195            4984.35  OMS-142038
+8                                            V25-08983      1  2025-05-08 00:00:00         C0493        Comercial Norte S.L.U.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1             466.62  OMS-141950
+9                                            V25-09183      1           09/05/2025         C0552            Acos do Porto Lda.        GM-3014               Alambre galvanizado 2.0mm bobina [1014]               3             468.32  OMS-142155
+10                                           V25-08774      1           07/05/2025         C0420    Vallas Mediterraneo S.L.U.        GM-3004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]              37            1140.17  OMS-141741
+11                                           V25-09285      3           20/05/2025         C0592      Recinzioni Veneto S.p.A.        GM-3034                 Clavos galvanizados 3.0mm caja [1034]              27             1019.1  OMS-142259
+12                                           V25-08889      2           21/05/2025         C0460         Aceros Levante S.L.U.        GM-3033                 Clavos galvanizados 2.7mm caja [1033]              88            2645.63  OMS-141856
+13                                           V25-09024      1           30/05/2025         C0507         Suministros Ebro S.A.        GM-3027             Cerca ganadera 100 nudos rollo 50m [1027]              14            1129.47  OMS-141991
+14                                           V25-08829      2           13/05/2025         C0439  Cercados Iberia e Hijos S.L.        GM-3011                Malla hexagonal 150mm rollo 25m [1011]              43            1636.54  OMS-141796
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_may_26.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - MAYO 2026    NaN                  NaN           NaN                             NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                  NaN    NaN                  NaN           NaN                             NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                           Nº Factura  Línea                Fecha  Cód. Cliente                         Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                            V26-16181      1           11/05/2026         C0613         Agritec Piemonte S.n.c.        GM-3021             Alambre de puas 1.6mm rollo 250m [1021]              23            593.18             717.75  OMS-174889
+4                                            V26-15562      1  2026-05-21 00:00:00         C0402           Mallas del Sur S.L.U.        GM-3014             Alambre galvanizado 2.0mm bobina [1014]               4            517.56             626.25  OMS-174265
+5                                            V26-15834      2           12/05/2026         C0488          Comercial Norte S.L.U.        GM-3030               Clavos galvanizados 1.6mm caja [1030]             292           1429.08            1729.19  OMS-174539
+6                                            V26-16028      1           12/05/2026         C0546             Redes Alentejo Lda.        GM-3025            Cerca ganadera 50 nudos rollo 50m [1025]              11            441.21             533.86  OMS-174735
+7                                            V26-16161      3           19/05/2026         C0606       Ferramenta Toscana S.r.l.        GM-3010              Malla hexagonal 100mm rollo 25m [1010]              68           1772.19            2144.35  OMS-174869
+8                                            V26-15669      5  2026-05-12 00:00:00         C0434            Comercial Norte S.A.        GM-3032               Clavos galvanizados 2.4mm caja [1032]              43            690.45             835.44  OMS-174372
+9                                            V26-16083      1           22/05/2026         C0567  Redes Alentejo Unipessoal Lda.        GM-3011              Malla hexagonal 150mm rollo 25m [1011]              21            651.13             787.87  OMS-174790
+10                                           V26-15829      1           04/05/2026         C0486         Suministros Ebro S.L.U.        GM-3005  Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              22            760.18             919.82  OMS-174533
+11                                           V26-15780      2           25/05/2026         C0471     Agropecuaria Extremena S.L.        GM-3029           Cerca ganadera 200 nudos rollo 50m [1029]               6            565.33             684.05  OMS-174483
+12                                           V26-16137      3           22/05/2026         C0591         Acciai Lombardia S.n.c.        GM-3007  Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]              44           1648.05            1994.14  OMS-174845
+13                                           V26-16116      1           27/05/2026         C0578              Acos do Porto S.A.        GM-3033               Clavos galvanizados 2.7mm caja [1033]             144           3075.18            3720.97  OMS-174824
+14                                           V26-16163      1  2026-05-14 00:00:00         C0608       Ferramenta Toscana S.n.c.        GM-3005  Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]              11             378.7             458.23  OMS-174871
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_nov_24.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - NOVIEMBRE 2024    NaN                  NaN           NaN                          NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                       NaN    NaN                  NaN           NaN                          NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                                Nº Factura  Línea                Fecha  Cód. Cliente                      Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                                 V24-05731      1  2024-11-25 00:00:00         C0578           Acos do Porto S.A.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]             444           2578.22            3119.65  OMS-126224
+4                                                 V24-05578      2           21/11/2024         C0513  Aceros Levante e Hijos S.L.        GM-3006    Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]               6            191.01             231.12  OMS-126071
+5                                                 V24-05565      2           13/11/2024         C0508       Cercados Iberia S.L.U.        GM-3008                 Malla hexagonal 50mm rollo 25m [1008]             102            1530.3            1851.66  OMS-126058
+6                                                 V24-05493      3           22/11/2024         C0478       Cercados Iberia S.L.U.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1            378.84              458.4  OMS-125986
+7                                                 V24-05640      1           13/11/2024         C0537          Aceros Levante S.L.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               4           1559.29            1886.74  OMS-126133
+8                                                 V24-05588      1           18/11/2024         C0514        Hierros Castilla S.L.        GM-3035                 Clavos galvanizados 3.4mm caja [1035]              44           1661.66            2010.61  OMS-126081
+9                                                 V24-05429      3           18/11/2024         C0450     Ferreteria Garcia S.L.U.        GM-3028             Cerca ganadera 150 nudos rollo 50m [1028]              10            699.37             846.24  OMS-125920
+10                                                V24-05659      2           15/11/2024         C0543        Ferragens Lisboa S.A.        GM-3015               Alambre galvanizado 2.4mm bobina [1015]               5            932.01            1127.73  OMS-126152
+11                                                V24-05760      1           11/11/2024         C0593    Ferramenta Toscana S.n.c.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]              30           1089.38            1318.15  OMS-126254
+12                                                V24-05522      3           28/11/2024         C0489     Vallas Mediterraneo S.L.        GM-3025              Cerca ganadera 50 nudos rollo 50m [1025]              48           2028.69            2454.71  OMS-126015
+13                                                V24-05626      1           25/11/2024         C0531          Mallas del Sur S.L.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]              10           5832.03            7056.76  OMS-126119
+14                                                V24-05507      1           22/11/2024         C0482        Suministros Ebro S.L.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]               7            172.58             208.82  OMS-126000
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\ventas_nov_25.xlsx
+====================================================================================================
+
+HOJA: VENTAS
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - NOVIEMBRE 2025    NaN                  NaN           NaN                               NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                       NaN    NaN                  NaN           NaN                               NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                                Nº Factura  Línea                Fecha  Cód. Cliente                           Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                                 V25-12589      2           28/11/2025         C0557  Ferragens Lisboa Unipessoal Lda.        GM-3010              Malla hexagonal 100mm rollo 25m [1010]              51           1287.04            1557.32  OMS-158512
+4                                                 V25-12702      2  2025-11-04 00:00:00         C0616          Recinzioni Veneto S.n.c.        GM-3014             Alambre galvanizado 2.0mm bobina [1014]               4            520.73             630.08  OMS-158625
+5                                                 V25-12518      3  2025-11-20 00:00:00         C0532     Agropecuaria Extremena S.L.U.        GM-3035               Clavos galvanizados 3.4mm caja [1035]              22             809.7             979.74  OMS-158441
+6                                                 V25-12488      4           24/11/2025         C0520            Cercados Iberia S.L.U.        GM-3021             Alambre de puas 1.6mm rollo 250m [1021]             113           3043.32            3682.42  OMS-158411
+7                                                 V25-12411      3           13/11/2025         C0494              Cercados Iberia S.A.        GM-3007  Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]               5            180.52             218.43  OMS-158333
+8                                                 V25-12646      1  2025-11-21 00:00:00         C0585                Reti Emilia S.r.l.        GM-3031               Clavos galvanizados 2.0mm caja [1031]             159           1849.89            2238.37  OMS-158569
+9                                                 V25-12610      1           06/11/2025         C0567    Redes Alentejo Unipessoal Lda.        GM-3025            Cerca ganadera 50 nudos rollo 50m [1025]              14            613.96             742.89  OMS-158533
+10                                                V25-12656      3           21/11/2025         C0592          Recinzioni Veneto S.p.A.        GM-3032               Clavos galvanizados 2.4mm caja [1032]              42            673.27             814.66  OMS-158579
+11                                                V25-12663      2           18/11/2025         C0597                Reti Emilia S.n.c.        GM-3030               Clavos galvanizados 1.6mm caja [1030]             158            992.04            1200.37  OMS-158586
+12                                                V25-12414      2           07/11/2025         C0495             Hierros Castilla S.L.        GM-3032               Clavos galvanizados 2.4mm caja [1032]             168            2843.8               3441  OMS-158336
+13                                                V25-12401      3  2025-11-05 00:00:00         C0492            Ferreteria Garcia S.A.        GM-3030               Clavos galvanizados 1.6mm caja [1030]             973            5657.3            6845.33  OMS-158323
+14                                                V25-12222      1           20/11/2025         C0422       Agropecuaria Extremena S.L.        GM-3011              Malla hexagonal 150mm rollo 25m [1011]              54           1669.95            2020.64  OMS-158144
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Octubre_2024.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - OCTUBRE 2024    NaN                  NaN           NaN                               NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+1                                                     NaN    NaN                  NaN           NaN                               NaN            NaN                                                 NaN             NaN               NaN                NaN         NaN
+2                                              Nº Factura  Línea                Fecha  Cód. Cliente                           Cliente  Cód. Artículo                                         Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                               V24-05123      2           09/10/2024         C0544             Ferragens Lisboa Lda.        GM-3031               Clavos galvanizados 2.0mm caja [1031]             298           3224.21            3901.29  OMS-123776
+4                                               V24-04915      3           04/10/2024         C0473            Comercial Norte S.L.U.        GM-3017             Alambre galvanizado 3.0mm bobina [1017]               2            757.29             916.32  OMS-123566
+5                                               V24-05194      2           22/10/2024         C0575  Ferragens Lisboa Unipessoal Lda.        GM-3034               Clavos galvanizados 3.0mm caja [1034]             135            3992.1            4830.44  OMS-123847
+6                                               V24-04961      1           25/10/2024         C0488            Comercial Norte S.L.U.        GM-3017             Alambre galvanizado 3.0mm bobina [1017]               2            693.29             838.88  OMS-123612
+7                                               V24-04739      1           31/10/2024         C0407            Cercados Iberia S.L.U.        GM-3011              Malla hexagonal 150mm rollo 25m [1011]              15            424.94             514.18  OMS-123389
+8                                               V24-04823      2           23/10/2024         C0432               Mallas del Sur S.L.        GM-3025            Cerca ganadera 50 nudos rollo 50m [1025]               6            253.57             306.82  OMS-123473
+9                                               V24-05154      3  2024-10-23 00:00:00         C0557  Ferragens Lisboa Unipessoal Lda.        GM-3012              Malla hexagonal 200mm rollo 25m [1012]              72           2598.62            3144.33  OMS-123807
+10                                              V24-05089      1           11/10/2024         C0532     Agropecuaria Extremena S.L.U.        GM-3008               Malla hexagonal 50mm rollo 25m [1008]             111           1473.44            1782.86  OMS-123741
+11                                              V24-05095      1           10/10/2024         C0534          Vallas Mediterraneo S.A.        GM-3001  Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]              28            605.91             733.15  OMS-123747
+12                                              V24-04909      6           14/10/2024         C0470            Cercados Iberia S.L.U.        GM-3020             Alambre galvanizado 4.2mm bobina [1020]               3           2310.54            2795.75  OMS-123560
+13                                              V24-05073      4           16/10/2024         C0527    Ferreteria Garcia e Hijos S.L.        GM-3012              Malla hexagonal 200mm rollo 25m [1012]              49           1859.77            2250.32  OMS-123725
+14                                              V24-04738      1           23/10/2024         C0407            Cercados Iberia S.L.U.        GM-3020             Alambre galvanizado 4.2mm bobina [1020]               3           2094.84            2534.76  OMS-123388
+
+====================================================================================================
+ARCHIVO: datos\erp-turio-espana\Ventas_Octubre_2025.xlsx
+====================================================================================================
+
+HOJA: Ventas
+0   GESTIONMAX - INFORME MENSUAL DE VENTAS - OCTUBRE 2025    NaN                  NaN           NaN                                  NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+1                                                     NaN    NaN                  NaN           NaN                                  NaN            NaN                                                   NaN             NaN               NaN                NaN         NaN
+2                                              Nº Factura  Línea                Fecha  Cód. Cliente                              Cliente  Cód. Artículo                                           Descripción  Cantidad (uds)  Importe Base (€)  Importe Total (€)   Nº Pedido
+3                                               V25-11968      1           10/10/2025         C0543                Ferragens Lisboa S.A.        GM-3017               Alambre galvanizado 3.0mm bobina [1017]               1            379.93             459.72  OMS-155910
+4                                               V25-11920      1           29/10/2025         C0530  Agropecuaria Extremena e Hijos S.L.        GM-3016               Alambre galvanizado 2.7mm bobina [1016]               3            910.97            1102.27  OMS-155862
+5                                               V25-11876      2           07/10/2025         C0516             Vallas Mediterraneo S.A.        GM-3026              Cerca ganadera 75 nudos rollo 50m [1026]              44           2434.68            2945.96  OMS-155815
+6                                               V25-12087      1           29/10/2025         C0592             Recinzioni Veneto S.p.A.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               2           1194.87            1445.79  OMS-156029
+7                                               V25-11998      3           13/10/2025         C0555       Redes Alentejo Unipessoal Lda.        GM-3009                 Malla hexagonal 75mm rollo 25m [1009]              33            716.93             867.49  OMS-155940
+8                                               V25-12151      3           28/10/2025         C0618            Ferramenta Toscana S.p.A.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]             137           4952.51            5992.54  OMS-156093
+9                                               V25-11627      2           13/10/2025         C0437             Vallas Mediterraneo S.A.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]              77           2838.76             3434.9  OMS-155563
+10                                              V25-11887      1           13/10/2025         C0518                Mallas del Sur S.L.U.        GM-3002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]              11             273.3             330.69  OMS-155827
+11                                              V25-11739      2  2025-10-31 00:00:00         C0478               Cercados Iberia S.L.U.        GM-3019               Alambre galvanizado 3.9mm bobina [1019]               2           1223.18            1480.05  OMS-155675
+12                                              V25-11735      2  2025-10-15 00:00:00         C0476                  Aceros Levante S.A.        GM-3030                 Clavos galvanizados 1.6mm caja [1030]              36            217.18             262.79  OMS-155671
+13                                              V25-11511      1           27/10/2025         C0400               Comercial Norte S.L.U.        GM-3012                Malla hexagonal 200mm rollo 25m [1012]              51           1729.92             2093.2  OMS-155447
+14                                              V25-11694      2           06/10/2025         C0457         Comercial Norte e Hijos S.L.        GM-3000    Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]              16            306.91             371.36  OMS-155630
+
+====================================================================================================
+ARCHIVO: datos\maestros\comerciales-territorios.csv
+====================================================================================================
+0   vendedor_id              nombre  pais  fecha_desde  fecha_hasta
+1           V01  Lien Vandenbroucke    BE   2024-01-01          NaN
+2           V02        Daan Kuipers    NL   2024-01-01          NaN
+3           V03        Katrin Vogel    DE   2024-01-01   2025-06-30
+4           V13       Stefan Brandt    DE   2025-07-01          NaN
+5           V07     Amelie Fournier    FR   2024-01-01   2025-09-30
+6           V11      Julien Lefevre    FR   2025-07-01          NaN
+7           V04      Oliver Hartley    GB   2024-01-01          NaN
+8           V05       Elin Sandberg    SE   2024-01-01          NaN
+9           V06      Marek Zawadzki    PL   2024-01-01          NaN
+10          V15       Agnieszka Lis    PL   2024-01-01          NaN
+11          V08         Petr Dvorak    CZ   2024-01-01          NaN
+12          V09       Jana Kovacova    SK   2024-01-01          NaN
+13          V10       Balazs Nemeth    HU   2024-01-01          NaN
+14          V12        Marta Ibanez    ES   2024-01-01   2025-12-31
+
+====================================================================================================
+ARCHIVO: datos\maestros\costos-estandar.xlsx
+====================================================================================================
+
+HOJA: Sheet1
+0        sku          planta  anio  costo_eur_ton
+1   ADE-1000     Deinze (BE)  2024         594.58
+2   ADE-1000     Deinze (BE)  2025         613.31
+3   ADE-1000     Deinze (BE)  2026         637.03
+4   ADE-1000  Zawiercie (PL)  2024         550.41
+5   ADE-1000  Zawiercie (PL)  2025         550.15
+6   ADE-1000  Zawiercie (PL)  2026         560.12
+7   ADE-1000   Valencia (ES)  2024          548.2
+8   ADE-1000   Valencia (ES)  2025         578.38
+9   ADE-1000   Valencia (ES)  2026         601.65
+10  ADE-1001     Deinze (BE)  2024         580.99
+11  ADE-1001     Deinze (BE)  2025         616.63
+12  ADE-1001     Deinze (BE)  2026         644.29
+13  ADE-1001  Zawiercie (PL)  2024         564.78
+14  ADE-1001  Zawiercie (PL)  2025         568.78
+
+====================================================================================================
+ARCHIVO: datos\maestros\crm-clientes.csv
+====================================================================================================
+0   cliente_global_id                      nombre  pais      segmento   filial  id_erp          vat   estatus  fecha_baja
+1            GLB-0001          Van Damme Draad BV    BE      Agricola  INDABEL  100000  BE573831080    ACTIVO         NaN
+2            GLB-0002           Goossens Draad BV    BE    Industrial  INDABEL  100001  BE785025731    ACTIVO         NaN
+3            GLB-0003            Mertens Staal BV    BE        Retail  INDABEL  100002  BE590886206    ACTIVO         NaN
+4            GLB-0004       Vandenberghe Staal BV    BE  Constructora  INDABEL  100003  BE304514849    ACTIVO         NaN
+5            GLB-0005               Claes Agri NV    BE    Industrial  INDABEL  100004  BE710127110    ACTIVO         NaN
+6            GLB-0006            De Smet Draad BV    BE  Constructora  INDABEL  100005  BE275174836    ACTIVO         NaN
+7            GLB-0007           Janssens Draad BV    BE    Industrial  INDABEL  100006  BE914982188    ACTIVO         NaN
+8            GLB-0008          Claes Hekwerken BV    BE  Distribuidor  INDABEL  100007  BE608049904    ACTIVO         NaN
+9            GLB-0009          Janssens Metaal NV    BE    Industrial  INDABEL  100008  BE493436726    ACTIVO         NaN
+10           GLB-0010       Vandenberghe Draad BV    BE      Agricola  INDABEL  100009  BE673085643    ACTIVO         NaN
+11           GLB-0011            Peeters Draad BV    BE  Distribuidor  INDABEL  100010  BE524410429  INACTIVO  2025-10-31
+12           GLB-0012  Janssens Bouwmaterialen NV    BE  Constructora  INDABEL  100011  BE802656127    ACTIVO         NaN
+13           GLB-0013        Peeters Hekwerken BV    BE    Industrial  INDABEL  100012  BE171277663    ACTIVO         NaN
+14           GLB-0014             De Smet Agri NV    BE  Constructora  INDABEL  100013  BE671246487    ACTIVO         NaN
+
+====================================================================================================
+ARCHIVO: datos\maestros\productos.xlsx
+====================================================================================================
+
+HOJA: productos
+0        sku                                                nombre  familia  kg_por_unidad  unidad_venta
+1   ADE-1000    Malla electrosoldada 50x50mm panel 2.6x5.0m [1000]      MEL             28         panel
+2   ADE-1001    Malla electrosoldada 75x75mm panel 2.6x5.0m [1001]      MEL           30.6         panel
+3   ADE-1002  Malla electrosoldada 100x100mm panel 2.6x5.0m [1002]      MEL           33.1         panel
+4   ADE-1003  Malla electrosoldada 150x150mm panel 2.6x5.0m [1003]      MEL           35.7         panel
+5   ADE-1004  Malla electrosoldada 200x200mm panel 2.6x5.0m [1004]      MEL           38.3         panel
+6   ADE-1005    Malla electrosoldada 25x25mm panel 2.6x5.0m [1005]      MEL           40.9         panel
+7   ADE-1006    Malla electrosoldada 40x40mm panel 2.6x5.0m [1006]      MEL           43.4         panel
+8   ADE-1007    Malla electrosoldada 13x13mm panel 2.6x5.0m [1007]      MEL             46         panel
+9   ADE-1008                 Malla hexagonal 50mm rollo 25m [1008]      MHX             15         rollo
+10  ADE-1009                 Malla hexagonal 75mm rollo 25m [1009]      MHX           18.8         rollo
+11  ADE-1010                Malla hexagonal 100mm rollo 25m [1010]      MHX           22.5         rollo
+12  ADE-1011                Malla hexagonal 150mm rollo 25m [1011]      MHX           26.2         rollo
+13  ADE-1012                Malla hexagonal 200mm rollo 25m [1012]      MHX             30         rollo
+14  ADE-1013               Alambre galvanizado 1.6mm bobina [1013]      AGV             60        bobina
+
+HOJA: equivalencias-turio
+0        sku  codigo_gm
+1   ADE-1000    GM-3000
+2   ADE-1001    GM-3001
+3   ADE-1002    GM-3002
+4   ADE-1003    GM-3003
+5   ADE-1004    GM-3004
+6   ADE-1005    GM-3005
+7   ADE-1006    GM-3006
+8   ADE-1007    GM-3007
+9   ADE-1008    GM-3008
+10  ADE-1009    GM-3009
+11  ADE-1010    GM-3010
+12  ADE-1011    GM-3011
+13  ADE-1012    GM-3012
+14  ADE-1013    GM-3013
+
+====================================================================================================
+ARCHIVO: datos\maestros\tipos-cambio.csv
+====================================================================================================
+0   anio_mes  moneda  unidades_por_eur
+1    2024-01     PLN            4.3215
+2    2024-02     PLN            4.3092
+3    2024-03     PLN            4.2977
+4    2024-04     PLN            4.3327
+5    2024-06     PLN            4.2885
+6    2024-07     PLN             4.296
+7    2024-08     PLN            4.3242
+8    2024-09     PLN            4.3205
+9    2024-10     PLN            4.3496
+10   2024-11     PLN             4.348
+11   2024-12     PLN            4.3515
+12   2025-01     PLN             4.354
+13   2025-02     PLN            4.3736
+14   2025-03     PLN            4.3899

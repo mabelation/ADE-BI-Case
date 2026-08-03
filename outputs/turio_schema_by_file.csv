@@ -1,0 +1,31 @@
+﻿source_file,source_sheet,column_count,has_net_amount_base,columns
+VENTAS-DICIEMBRE-24.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-DICIEMBRE-25.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-JUNIO-24.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-JUNIO-25.xlsx,Hoja1,10,False,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Total (€) | Nº Pedido
+VENTAS-JUNIO-26.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-MARZO-24.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-MARZO-25.xlsx,Hoja1,10,False,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Total (€) | Nº Pedido
+VENTAS-MARZO-26.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-SEPTIEMBRE-24.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+VENTAS-SEPTIEMBRE-25.xlsx,Hoja1,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Abril_2024.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Abril_2025.xlsx,Ventas,10,False,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Total (€) | Nº Pedido
+Ventas_Abril_2026.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_ago_24.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_ago_25.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Enero_2024.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Enero_2025.xlsx,Ventas,10,False,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Total (€) | Nº Pedido
+Ventas_Enero_2026.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_feb_24.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_feb_25.xlsx,VENTAS,10,False,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Total (€) | Nº Pedido
+ventas_feb_26.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Julio_2024.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Julio_2025.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_may_24.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_may_25.xlsx,VENTAS,10,False,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Total (€) | Nº Pedido
+ventas_may_26.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_nov_24.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+ventas_nov_25.xlsx,VENTAS,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Octubre_2024.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido
+Ventas_Octubre_2025.xlsx,Ventas,11,True,Nº Factura | Línea | Fecha | Cód. Cliente | Cliente | Cód. Artículo | Descripción | Cantidad (uds) | Importe Base (€) | Importe Total (€) | Nº Pedido

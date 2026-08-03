@@ -1,0 +1,19 @@
+vendedor_id,nombre,pais,fecha_desde,fecha_hasta
+V01,Lien Vandenbroucke,BE,2024-01-01,
+V02,Daan Kuipers,NL,2024-01-01,
+V03,Katrin Vogel,DE,2024-01-01,2025-06-30
+V13,Stefan Brandt,DE,2025-07-01,
+V07,Amelie Fournier,FR,2024-01-01,2025-09-30
+V11,Julien Lefevre,FR,2025-07-01,
+V04,Oliver Hartley,GB,2024-01-01,
+V05,Elin Sandberg,SE,2024-01-01,
+V06,Marek Zawadzki,PL,2024-01-01,
+V15,Agnieszka Lis,PL,2024-01-01,
+V08,Petr Dvorak,CZ,2024-01-01,
+V09,Jana Kovacova,SK,2024-01-01,
+V10,Balazs Nemeth,HU,2024-01-01,
+V12,Marta Ibanez,ES,2024-01-01,2025-12-31
+V16,Carlos Peiro,ES,2026-01-01,
+V14,Rui Almeida,PT,2024-01-01,
+V17,Giulia Ferrari,IT,2024-01-01,
+V18,Tomas Herrera,ES,2024-01-01,

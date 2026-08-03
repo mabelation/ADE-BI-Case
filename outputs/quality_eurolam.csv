@@ -1,0 +1,11 @@
+﻿control,value
+total_rows,84245
+unique_record_keys,82435
+duplicated_record_keys,1810
+null_invoice_dates,0
+null_quantity_tons,0
+null_net_amount_local,0
+unique_customers,301
+unique_products,36
+minimum_invoice_date,2024-01-01 00:00:00
+maximum_invoice_date,2026-06-30 00:00:00

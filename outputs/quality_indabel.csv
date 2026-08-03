@@ -1,0 +1,21 @@
+﻿control,value
+total_rows,94170
+unique_record_keys,94170
+duplicated_record_keys,0
+null_invoice_dates,0
+null_invoice_lines,0
+null_quantity_source,0
+null_quantity_tons,0
+null_net_amount_local,0
+null_document_sign,0
+unique_customers,382
+unique_products,38
+minimum_invoice_date,2024-01-01 00:00:00
+maximum_invoice_date,2026-06-30 00:00:00
+document_types,"ZF2, ZG2"
+currencies,"EUR, GBP, SEK"
+units_of_measure,KG
+gross_quantity_tons,143744.45909999998
+net_quantity_tons,142499.37209999998
+gross_net_amount_local,225364336.02
+net_amount_local_signed,223170627.56
