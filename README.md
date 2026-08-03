@@ -483,3 +483,56 @@ La solución primero construye una única versión confiable de las ventas del g
 - monitorear el avance hacia el objetivo corporativo.
 
 La plataforma convierte datos provenientes de tres ERPs en decisiones comerciales medibles y escalables.
+
+## Decisiones tecnológicas
+
+Se eligió Python y pandas por la heterogeneidad de las fuentes de
+origen —Parquet, CSV y Excel— y por la necesidad de aplicar reglas de
+negocio específicas para cada ERP.
+
+Parquet se utilizó como formato intermedio y curado debido a su tipado,
+compresión y eficiencia de lectura. El proyecto se estructuró en capas
+de ingesta, transformación, reporting y analítica, coordinadas desde
+un único punto de entrada (`main.py`).
+
+La arquitectura permite migrar posteriormente las transformaciones a
+dbt, Spark o un data warehouse sin modificar las definiciones centrales
+de ventas, volumen, margen, clientes y productos.
+
+## Uso de asistentes de inteligencia artificial
+
+Se utilizaron ChatGPT y Claude como herramientas de apoyo para revisar
+la estructura del proyecto, contrastar decisiones metodológicas,
+documentar supuestos y generar borradores iniciales de algunos
+fragmentos de código.
+
+Todas las reglas de negocio, transformaciones, validaciones, resultados
+y decisiones finales fueron revisadas y ejecutadas por la autora.
+
+## Tratamiento de eventos atípicos
+
+No se eliminaron observaciones únicamente por presentar valores
+extremos. Primero se distinguieron errores técnicos —duplicados,
+fechas mal interpretadas, unidades inconsistentes y signos incorrectos—
+de eventos comerciales reales.
+
+Los errores confirmados fueron corregidos durante la limpieza. Los
+picos comerciales plausibles se conservaron para evitar suavizar
+artificialmente la demanda. El backtesting se reportó sobre ventanas
+temporales completas, sin retirar periodos desfavorables.
+
+## Definición de riesgo de abandono
+
+La fuente no contenía una etiqueta histórica explícita de abandono.
+Por ello se implementó un Customer Health Index como baseline
+explicable de deterioro comercial.
+
+El índice utiliza recencia, tendencia de ventas, cambio de frecuencia,
+margen y amplitud del portafolio. No representa una probabilidad
+calibrada de churn.
+
+En producción se recomienda construir snapshots históricos y definir
+churn como la ausencia de compras durante los 120 días posteriores a
+una fecha de corte, evaluando el modelo mediante separación temporal,
+PR-AUC, lift y precision en el grupo priorizado.
+
